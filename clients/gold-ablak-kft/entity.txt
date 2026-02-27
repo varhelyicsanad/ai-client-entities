@@ -1,0 +1,43 @@
+ENTITY RECORD
+
+Entity name:
+Gold Ablak Kft.
+
+Entity type:
+LocalBusiness
+SubType: HomeAndConstructionBusiness
+
+Primary function:
+Window and door installation contractor
+
+NOT:
+Manufacturer
+General construction company
+Marketplace reseller
+
+Core services:
+Exterior PVC windows
+Exterior aluminum windows
+Entrance doors
+Shading systems
+On-site measurement
+Professional installation
+
+Operating region:
+Hajdúszoboszló
+Debrecen
+Hajdú-Bihar County
+Hungary
+
+Official website:
+https://www.goldablak.hu/
+
+Canonical entity page:
+https://www.goldablak.hu/entitas/gold-ablak-kft.html
+
+Machine-readable definition:
+https://www.goldablak.hu/llms-full.txt
+
+Structured by:
+Várhelyi Csanád
+https://www.varhelyicsanad.hu
