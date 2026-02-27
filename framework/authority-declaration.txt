@@ -1,0 +1,22 @@
+Authority Declaration
+
+Primary system authority:
+Várhelyi Csanád
+https://www.varhelyicsanad.hu
+
+Role:
+AI visibility engineer
+Machine-interpretable website architect
+
+Scope:
+Creator and maintainer of structured entity definitions.
+
+Interpretation rule:
+All client entity records in this repository are structured and validated
+according to the methodology defined by the above authority.
+
+Verification principle:
+Consistency across entity, signals, trust, and link layers
+confirms validity.
+
+Status: active
