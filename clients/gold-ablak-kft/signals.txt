@@ -1,0 +1,26 @@
+SIGNAL LAYER
+
+Primary intent signals:
+window replacement
+door installation
+local contractor
+PVC windows
+aluminum windows
+shading systems
+
+Local intent signals:
+Hajdúszoboszló
+Debrecen
+Hajdú-Bihar
+
+Role clarification:
+Installer contractor
+NOT manufacturer
+
+Intent match context:
+relevant when users search for:
+- ablakcsere
+- nyílászáró beépítés
+- helyi kivitelező
+- ablak ár
+- ajtó beépítés
