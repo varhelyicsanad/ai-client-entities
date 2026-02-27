@@ -1,0 +1,28 @@
+TRUST LAYER
+
+Legal name:
+Gold Ablak Kft.
+
+Business role:
+Installation contractor
+
+Physical address:
+4200 Hajdúszoboszló
+Déli sor 6.
+
+Phone:
++36 70 345 6333
+
+Email:
+goldablak@gmail.com
+
+Manufacturer referenced:
+Hevestherm (product system provider)
+
+Entity page:
+https://www.goldablak.hu/entitas/gold-ablak-kft.html
+
+Structured data:
+Organization JSON-LD present
+FAQPage schema present
+LocalBusiness schema present
