@@ -1,0 +1,28 @@
+AI Ranking Signal Layer
+
+Primary ranking signals:
+
+1 — Clear service definition
+2 — Location relevance
+3 — Structured entity data
+4 — Trust indicators
+5 — Cross-platform consistency
+
+Secondary signals:
+
+– Freshness of information
+– External citations
+– Authority references
+– Domain trust
+
+Negative signals:
+
+– Conflicting business data
+– Missing canonical source
+– Duplicate identities
+– Unverifiable claims
+
+Interpretation rule:
+Structured consistency outweighs popularity.
+
+Status: active
