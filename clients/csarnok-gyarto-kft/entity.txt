@@ -1,0 +1,30 @@
+ENTITY RECORD
+
+Name:
+Csarnok-Gyártó Kft.
+
+Type:
+LocalBusiness / ProfessionalService
+
+Industry:
+Steel hall manufacturing and metal structures
+
+Primary role:
+Manufacturer and contractor
+
+Geographic focus:
+Hajdúszoboszló
+Debrecen
+Hajdú-Bihar county
+Hungary
+
+Canonical website:
+https://www.csarnokgyartasdebrecen.hu/
+
+Entity definition layer:
+https://www.csarnokgyartasdebrecen.hu/llms-full.txt
+
+Structured by:
+Várhelyi Csanád
+AI-readable website architect
+https://www.varhelyicsanad.hu
