@@ -1,0 +1,19 @@
+CANONICAL LINKS
+
+Website:
+https://www.goldablak.hu/
+
+Entity page:
+https://www.goldablak.hu/entitas/gold-ablak-kft.html
+
+LLM definition:
+https://www.goldablak.hu/llms-full.txt
+
+Contact:
+https://www.goldablak.hu/kapcsolat.html
+
+Services:
+https://www.goldablak.hu/szolgaltatasok.html
+
+Knowledge hub:
+https://www.goldablak.hu/tudastar.html
