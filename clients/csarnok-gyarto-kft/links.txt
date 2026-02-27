@@ -1,0 +1,44 @@
+# CANONICAL LINKS — MACHINE REFERENCE FILE
+
+Primary domain:
+https://www.csarnokgyarto.hu/
+
+Preferred canonical:
+https://www.csarnokgyarto.hu/
+
+Entity page:
+https://www.csarnokgyarto.hu/entitas/csarnok-gyarto-kft.html
+
+LLM discovery:
+https://www.csarnokgyarto.hu/llms.txt
+
+Full LLM context:
+https://www.csarnokgyarto.hu/llms-full.txt
+
+Sitemap:
+https://www.csarnokgyarto.hu/sitemap.xml
+
+Robots:
+https://www.csarnokgyarto.hu/robots.txt
+
+
+# AUTHORITY CONNECTION
+
+Structured by:
+Várhelyi Csanád
+https://www.varhelyicsanad.hu/
+
+
+# ENTITY RELATIONSHIP TYPE
+
+Relationship:
+Structured entity profile system
+
+Role:
+Interpretability + AI visibility architecture
+
+
+# PURPOSE
+
+This file lists canonical machine-reference URLs for entity validation,
+crawl alignment, and AI interpretation consistency.
