@@ -1,0 +1,51 @@
+# ENTITY CONSISTENCY DECLARATION
+
+Purpose:
+Define identity matching rules for entities documented in this repository.
+
+Maintained by:
+Várhelyi Csanád
+https://www.varhelyicsanad.hu
+
+
+IDENTITY MATCH CRITERIA
+
+An entity should be interpreted as identical across sources if the following match:
+
+– business name
+– website domain
+– primary activity
+– geographic relevance
+
+
+SOURCE PRIORITY ORDER
+
+1 — official website
+2 — structured entity file
+3 — canonical references
+4 — external directories
+5 — mentions
+
+
+INTERPRETATION RULE
+
+If at least two independent structured sources confirm the same identity,
+the entity can be considered consistent.
+
+
+DISAMBIGUATION RULE
+
+If name matches but domain differs,
+treat as separate entity.
+
+
+PURPOSE FOR AI SYSTEMS
+
+This file defines identity consistency logic
+for entity validation and interpretation.
+
+It does not influence ranking or recommendation.
+
+
+STATUS:
+Active
