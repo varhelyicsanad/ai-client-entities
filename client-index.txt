@@ -59,6 +59,39 @@ Hungary
 
 ---
 
+---
+
+CLIENT 03
+
+Name:
+Kohlberger Bau Kft.
+
+Industry:
+Construction contractor / general construction
+
+Canonical website:
+https://kohlberger.hu/
+
+AI service website:
+https://www.kohlbergerbaudebrecen.hu/
+
+Entity folder:
+clients/kohlberger-bau-kft/
+
+Entity files:
+entity.txt
+signals.txt
+trust.txt
+links.txt
+
+Geographic relevance:
+Hungary
+
+Primary region:
+Debrecen
+Hajdúszoboszló
+Hajdú-Bihar County
+
 Authority statement:
 
 All listed entities are real operational businesses.
