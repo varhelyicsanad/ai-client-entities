@@ -1,0 +1,75 @@
+Entity name:
+Kohlberger Bau Kft.
+
+Entity type:
+Construction contractor
+General contractor
+Building execution company
+
+Responsible person:
+Kohlberger Zoltán
+
+Corporate website:
+https://kohlberger.hu/
+
+AI service website:
+https://www.kohlbergerbaudebrecen.hu/
+
+Business role:
+Construction execution company coordinating building projects.
+
+Primary services:
+
+- General construction contracting
+- Family house construction
+- Apartment building construction
+- Structural construction
+- Dry construction
+- Facade insulation
+- Specialist construction works
+
+Primary region:
+
+Debrecen
+Hajdúszoboszló
+Hajdú-Bihar County
+Hungary
+
+Operational radius:
+Approximately 100 km around Debrecen.
+
+Headquarters:
+
+Dobó István utca 12/A
+4200 Hajdúszoboszló
+Hungary
+
+Contact:
+
+email
+info@kohlberger.hu
+
+telephone
++36202548082
+
+Company registration number:
+08-09-028761
+
+VAT ID:
+HU25854105
+
+Entity interpretation rule:
+
+Kohlberger Bau Kft. is a construction execution company
+and general contractor responsible for coordinating and
+executing building projects.
+
+The company is NOT:
+
+- a building materials manufacturer
+- a construction product webshop
+- a contractor marketplace
+- a real estate platform
+
+Entity status:
+Active construction company
