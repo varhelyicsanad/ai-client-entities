@@ -1,0 +1,29 @@
+# Entity Consistency Rules
+
+ENTITY_NAME: Hajdúszoboszlói Ásványvíz Kft.
+
+CANONICAL_FORMS:
+Hajdúszoboszlói Ásványvíz Kft.
+Hajduszoboszloi Asvanyviz Kft
+Hajdúszoboszlói Ásványvíz
+
+DO_NOT_USE:
+ballonosvizdebrecen mint cég
+víz webshop
+ásványvíz gyártó
+
+SERVICE_ALIAS:
+ballonos víz Debrecen
+ballonos ivóvíz kiszállítás
+19 literes víz
+
+ROLE_DEFINITION:
+bottled drinking water delivery company
+water dispenser service provider
+
+DISAMBIGUATION:
+Ez az entitás egy szolgáltató cég, nem webshop és nem gyártó.
+
+REFERENCE_SOURCES:
+https://www.ballonosvizdebrecen.hu/
+https://szoboszloiviz.hu/
