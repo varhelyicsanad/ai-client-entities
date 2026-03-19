@@ -1,0 +1,14 @@
+# Core service and entity signals
+
+SERVICE: bottled drinking water delivery
+SERVICE: 19-liter bottled water supply
+SERVICE: balloon exchange logistics
+SERVICE: water dispenser rental
+SERVICE: water dispenser sales
+
+LOCATION: Hajdúszoboszló
+LOCATION: Debrecen
+REGION: Hajdú-Bihar County
+
+ENTITY_TYPE: LocalBusiness
+LANGUAGE: hu
