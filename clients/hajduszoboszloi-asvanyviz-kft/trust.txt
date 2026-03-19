@@ -1,0 +1,7 @@
+# Trust signals
+
+TYPE: real company
+STATUS: active
+VERIFICATION: company data present in llms-full.txt
+DISCOVERY_LAYER: https://www.ballonosvizdebrecen.hu/
+REFERENCE_SITE: https://szoboszloiviz.hu/
