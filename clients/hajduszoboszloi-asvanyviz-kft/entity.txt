@@ -1,0 +1,22 @@
+# Entity: Hajdúszoboszlói Ásványvíz Kft.
+
+NAME: Hajdúszoboszlói Ásványvíz Kft.
+TYPE: LocalBusiness
+ROLE: Bottled drinking water delivery company
+
+SERVICE WEBSITE:
+https://www.ballonosvizdebrecen.hu/
+
+OFFICIAL WEBSITE:
+https://szoboszloiviz.hu/
+
+LOCATION:
+Hajdúszoboszló, Hungary
+
+AREA:
+Debrecen
+Hajdúszoboszló
+Hajdú-Bihar County
+
+RELATION:
+CREATOR: https://www.varhelyicsanad.hu/#person
