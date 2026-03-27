@@ -1,0 +1,30 @@
+PRIMARY WEBSITE:
+https://tuzephajduszoboszlo.hu/
+
+SECONDARY WEBSITE:
+https://www.epitoanyagdebrecen.hu/
+
+GOOGLE BUSINESS PROFILE:
+https://share.google/uNRszfEwT60Ablpfx
+
+GOOGLE MAPS CID:
+https://www.google.com/maps?cid=4711708374870296696
+
+FACEBOOK:
+https://www.facebook.com/profile.php?id=61553359348135
+
+COMPANY REGISTRY:
+https://www.nemzeticegtar.hu/nemzeticegtar/cegadat/0909036513/Kohlberger-Epitoanyag-Korlatolt-Felelossegu-Tarsag
+
+ENTITY HUB:
+https://www.epitoanyagdebrecen.hu/meta.html
+
+LLM FILES:
+https://www.epitoanyagdebrecen.hu/llms.txt
+https://www.epitoanyagdebrecen.hu/llms-full.txt
+
+SITEMAP:
+https://www.epitoanyagdebrecen.hu/sitemap.xml
+
+ROBOTS:
+https://www.epitoanyagdebrecen.hu/robots.txt
