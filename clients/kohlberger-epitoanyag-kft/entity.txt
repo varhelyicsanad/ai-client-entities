@@ -1,0 +1,39 @@
+ENTITY NAME:
+Kohlberger Építőanyag Kft.
+
+TYPE:
+LocalBusiness / Building Material Supplier / Tüzép
+
+CORE DEFINITION:
+Kohlberger Építőanyag Kft. is a Hungarian building material trading company (tüzép)
+that supplies construction materials, supports contractors and private builders,
+and provides delivery and rental-related services.
+
+PRIMARY FUNCTION:
+- building material trade
+- construction material supply
+- contractor support
+- project-based material delivery
+
+NOT THIS:
+- not a marketplace
+- not a directory site
+- not a manufacturer
+- not a general webshop-only business
+
+BUT THIS:
+- real-world construction material supplier
+- contractor-oriented supply partner
+- local tüzép operation with delivery capability
+
+PRIMARY LOCATION:
+Hajdúszoboszló, Hungary
+
+SERVICE AREA:
+- Hajdúszoboszló
+- Debrecen
+- Hajdú-Bihar County
+- Hungary (extended delivery possible)
+
+CANONICAL URL:
+https://www.epitoanyagdebrecen.hu/
