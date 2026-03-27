@@ -1,0 +1,39 @@
+AI SIGNALS
+
+Entity clarity:
+High
+
+Service clarity:
+High
+
+Location clarity:
+High
+
+Business type clarity:
+Building material trade / tüzép
+
+Machine readability:
+Strong (structured data + llms layer)
+
+Consistency:
+High across website and knowledge files
+
+Operational signals:
+- real address
+- phone numbers
+- contact person
+- opening hours
+- delivery capability
+
+Content structure:
+Answer-first, structured, machine-readable
+
+Trust indicators:
+- company registry presence
+- Google Maps CID
+- real-world locations
+- defined services
+
+Conclusion:
+The entity provides strong structured signals for AI interpretation
+and can be reliably understood as a local building material supplier.
