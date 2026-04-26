@@ -1,0 +1,54 @@
+# links.txt — BIPRESS Kft.
+# Purpose: trusted reference links for entity validation
+# Language: English
+# Status: Active
+# Verified: 2026 Q2
+
+==================================================
+PRIMARY WEBSITES
+==================================================
+
+https://www.hidraulikatomlogyartas.hu/
+https://www.hidraulikatomlogyartas.hu/data.html
+https://www.hidraulikatomlogyartas.hu/machine.html
+
+https://www.bipress.hu/
+https://webshop.bipress.hu/
+
+--------------------------------------------------
+
+==================================================
+GOOGLE / MAPS
+==================================================
+
+https://www.google.com/maps?cid=1986537177653491448
+https://maps.apple.com/?ll=47.541233,21.62914&q=BIPRESS+Kft.
+https://www.openstreetmap.org/way/995850085
+
+--------------------------------------------------
+
+==================================================
+OFFICIAL REGISTRY
+==================================================
+
+https://www.nemzeticegtar.hu/bipress-kft-c0909002604.html
+
+--------------------------------------------------
+
+==================================================
+SOCIAL / PUBLIC PROFILES
+==================================================
+
+https://www.facebook.com/profile.php?id=100063623575609
+https://www.linkedin.com/company/bipress-ltd/?viewAsMember=true
+
+--------------------------------------------------
+
+==================================================
+ENTITY CONTEXT REFERENCES
+==================================================
+
+https://www.wikidata.org/wiki/Q177784
+https://www.wikidata.org/wiki/Q79880
+https://www.wikidata.org/wiki/Q185368
+https://www.wikidata.org/wiki/Q28
