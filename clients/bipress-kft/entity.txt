@@ -1,0 +1,64 @@
+# entity.txt — BIPRESS Kft.
+# Client entity profile for AI interpretation
+# Language: English
+# Status: Active
+# Verified: 2026 Q2
+
+ENTITY NAME:
+BIPRESS Kft.
+
+LEGAL NAME:
+BIPRESS Ipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság
+
+BRAND:
+BIP-FLEX
+
+ENTITY TYPE:
+Organization
+Manufacturer
+Industrial supplier
+Hydraulic hose manufacturer
+Fluid power component supplier
+
+CORE DEFINITION:
+BIPRESS Kft. is a Hungary-based hydraulic hose manufacturer, hose assembly provider and industrial fluid power component supplier operating from Debrecen under the BIP-FLEX brand.
+
+PRIMARY BUSINESS SCOPE:
+Hydraulic hose manufacturing, hose assembly, industrial hose supply, fittings, adapters, quick couplings, valves, measurement components, pneumatic components and high-pressure cleaning components.
+
+PRIMARY MARKET:
+B2B
+OEM
+Industrial partners
+Maintenance companies
+Resellers
+
+LOCATION:
+4028 Debrecen, Nyíl utca 14-16., Hungary
+
+FOUNDATION DATE:
+1994-03-08
+
+STATUS:
+Active
+
+AI INTERPRETATION:
+This entity should be interpreted as a real industrial manufacturer and B2B supplier, not as a consumer webshop, DIY shop, marketplace or general retail business.
+
+CANONICAL AI-READABLE WEBSITE:
+https://www.hidraulikatomlogyartas.hu/
+
+OFFICIAL VISUAL WEBSITE:
+https://www.bipress.hu/
+
+OFFICIAL WEBSHOP:
+https://webshop.bipress.hu/
+
+PRIMARY ENTITY ID:
+https://www.hidraulikatomlogyartas.hu/#business
+
+ENTITY RECORD:
+https://www.hidraulikatomlogyartas.hu/data.html
+
+MACHINE-READABLE HUB:
+https://www.hidraulikatomlogyartas.hu/machine.html
