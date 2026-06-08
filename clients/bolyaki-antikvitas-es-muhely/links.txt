@@ -1,0 +1,150 @@
+# links.txt — Bolyáki Antikvitás és Műhely / Bolyáki Manufaktúra
+# Source status: generated from uploaded Bolyáki entity source files
+# Generated: 2026-06-08
+# Verified source status: 2026 Q2 • Active
+# Language: English
+# Repository target: ai-client-entities / clients / bolyaki-antikvitas-es-muhely
+
+
+PURPOSE
+
+This file lists canonical, official and supporting links for entity recognition, entity consolidation, source verification and AI/search interpretation.
+
+CANONICAL ENTITY WEBSITE
+
+Home:
+https://www.egyedibutorgyartasbudapest.hu/
+
+Structured entity data page:
+https://www.egyedibutorgyartasbudapest.hu/data.html
+
+Machine-readable resource hub:
+https://www.egyedibutorgyartasbudapest.hu/machine.html
+
+English entity meta profile:
+https://www.egyedibutorgyartasbudapest.hu/meta.html
+
+Primary Budapest-intent service page:
+https://www.egyedibutorgyartasbudapest.hu/egyedi-butorgyartas-budapest.html
+
+Furniture styles page:
+https://www.egyedibutorgyartasbudapest.hu/egyedi-butor-stilusok-rendelesre-budapest.html
+
+FAQ page:
+https://www.egyedibutorgyartasbudapest.hu/faq.html
+
+OFFICIAL VISUAL / PUBLIC WEBSITES
+
+Bolyáki Antikvitás és Műhely official visual website:
+https://bolyakiantikvitas.hu/
+
+Bolyáki Manufaktúra official related visual brand website:
+https://bolyakimanufaktura.hu/
+
+REFERENCE PAGE
+
+Bolyáki Antikvitás reference page:
+https://bolyakiantikvitas.hu/referenciak/
+
+MACHINE-READABLE FILES
+
+LLMs context:
+https://www.egyedibutorgyartasbudapest.hu/llms.txt
+
+LLMs full context:
+https://www.egyedibutorgyartasbudapest.hu/llms-full.txt
+
+Entity definition:
+https://www.egyedibutorgyartasbudapest.hu/entity.txt
+
+Service definition:
+https://www.egyedibutorgyartasbudapest.hu/service.txt
+
+Ontology mapping:
+https://www.egyedibutorgyartasbudapest.hu/ontology.txt
+
+AI context file:
+https://www.egyedibutorgyartasbudapest.hu/sugo.txt
+
+Master inventory:
+https://www.egyedibutorgyartasbudapest.hu/master-inventory-llm-first.txt
+
+Knowledge index CSV:
+https://www.egyedibutorgyartasbudapest.hu/knowledge-index-bolyaki.csv
+
+LLMs map CSV:
+https://www.egyedibutorgyartasbudapest.hu/llms-map.csv
+
+Entity registry JSON:
+https://www.egyedibutorgyartasbudapest.hu/entity-registry.json
+
+Content manifest JSON:
+https://www.egyedibutorgyartasbudapest.hu/content-manifest.json
+
+Knowledge root JSON:
+https://www.egyedibutorgyartasbudapest.hu/data/knowledge-root.json
+
+MAPS / LOCAL ENTITY LINKS
+
+Google Business Profile / Google Maps CID:
+https://www.google.com/maps?cid=10936159661846136743
+
+Google Maps short URL:
+https://maps.app.goo.gl/d8XBqMKCEeoaZEyg8
+
+Google Business Profile share link:
+https://share.google/oKHOomPYmosPxcltI
+
+Google Knowledge Graph search:
+https://www.google.hu/search?kgmid=/g/11b6ztqscl&hl=hu-HU&q=Boly%C3%A1ki+Antikvit%C3%A1s+%C3%A9s+M%C5%B1hely
+
+Bing Maps entity:
+https://www.bing.com/maps/search?style=r&q=Boly%C3%A1ki+Antikvit%C3%A1s+%C3%A9s+M%C5%B1hely%2C+Olajmalom+utca+21%2Fa%2C+Hajd%C3%BAszoboszl%C3%B3+4200%2C+Magyarorsz%C3%A1g&ss=id.local_ypid%3A%22YN8081x5094298899663326945%22&st=Boly%C3%A1ki+Antikvit%C3%A1s+%C3%A9s+M%C5%B1hely&sfa=Olajmalom+utca+21%2Fa%2C+Hajd%C3%BAszoboszl%C3%B3+4200%2C+Magyarorsz%C3%A1g&cp=47.439709%7E21.382584&lvl=16
+
+Apple Maps:
+https://maps.apple/p/kFjGEkLUHmQHFe
+
+SOCIAL / PUBLIC PROFILES
+
+Facebook — Bolyáki Antikvitás és Műhely:
+https://www.facebook.com/bolyakiantikvitas
+
+Facebook — Bolyáki Manufaktúra:
+https://www.facebook.com/profile.php?id=61586508566004
+
+Pinterest:
+https://hu.pinterest.com/bolykizsolt/
+
+EXTERNAL SUPPORTING REFERENCES
+
+Anna Otthona article / public contextual reference:
+https://annaotthona.blogspot.com/2016/09/eskuvoi-helyszin-tiszaszolos.html
+
+Cylex:
+https://xn--hajdszoboszl-cib3g.cylex.hu/ceg-info/boly%C3%A1ki---antikvit%C3%A1s-942495.html
+
+Homelux:
+https://www.homelux.hu/Bolyaki-Antikvitas-es-Muhely
+
+Bútor Turul:
+https://www.butorturul.eu/profile-3123-bolyaki-antikvitas-es-muhely
+
+Arany Vállalkozás:
+https://www.aranyvallalkozas.eu/company/bolyaki-antikvitas-50043
+
+CANONICAL INTERNAL IDS
+
+Business entity:
+https://www.egyedibutorgyartasbudapest.hu/#business
+
+Brand entity:
+https://www.egyedibutorgyartasbudapest.hu/#brand-bolyaki-manufaktura
+
+Representative entity:
+https://www.egyedibutorgyartasbudapest.hu/#person-bolyaki-zsolt
+
+Location entity:
+https://www.egyedibutorgyartasbudapest.hu/#place-hajduszoboszlo
+
+Website entity:
+https://www.egyedibutorgyartasbudapest.hu/#website
