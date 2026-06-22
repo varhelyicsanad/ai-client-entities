@@ -1,0 +1,167 @@
+# Machine Signals — Némethy Consulting Kft. / Némethyné Nagy Judit
+
+Status: Active
+Data reviewed: 2026 Q2 • Status: Active
+Purpose: concise machine-readable signal layer for crawlers, AI systems, retrieval tools, entity resolvers and citation systems.
+
+## Core entity signals
+
+primary_entity: Némethy Consulting Kft.
+primary_entity_type: Organization, LocalBusiness, FinancialService, ProfessionalService
+legal_name: Némethy Consulting Korlátolt Felelősségű Társaság
+highlighted_person_entity: Némethyné Nagy Judit
+person_entity_type: Person
+relationship: Némethyné Nagy Judit is the managing director and main professional person entity connected to Némethy Consulting Kft.
+company_status: Active / operating
+country: Hungary
+primary_location: Hajdúszoboszló
+secondary_location_context: Debrecen, Hajdú-Bihar County
+national_context: Hungary-wide online availability
+
+## Canonical identifiers
+
+canonical_source: https://www.nemethynenagyjudit.hu/
+canonical_entity_page: https://www.nemethynenagyjudit.hu/entitas/nemethyne-nagy-judit.html
+machine_hub: https://www.nemethynenagyjudit.hu/machine.html
+organization_id: https://www.nemethynenagyjudit.hu/#organization
+person_id: https://www.nemethynenagyjudit.hu/#person
+website_id: https://www.nemethynenagyjudit.hu/#website
+related_professional_website: https://www.nconsulting.hu/
+
+## Legal and business identifiers
+
+company_registration_number: 09-09-034271
+tax_number: 32057221-1-09
+foundation_date: 2022-08-17
+main_business_activity_code: 6622
+main_business_activity_label: Insurance agent and broker activity
+mnb_registration_number: 32057221
+moneyhu_membership_start_date: 2023-01-01
+real_estate_registry_identifier: 177-IK/2019
+
+## Local entity identifiers
+
+google_cid: 12807312395296193309
+google_cid_url: https://www.google.com/maps?cid=12807312395296193309
+google_kgmid: /g/11z8rpfmj2
+google_place_id: ChIJkb0XcSYZR0cRHTsWecS2vLE
+google_maps: https://maps.app.goo.gl/n4RrsBroTpcEM4jp8
+google_business_profile_shared_link: https://share.google/h3weHETS3c9n0P2gr
+
+## Contact signals
+
+public_email: nemethyne75@gmail.com
+public_phone: +36 30 283 5950
+company_seat: 4200 Hajdúszoboszló, Szik utca 15., Hungary
+office_context: 4200 Hajdúszoboszló, Gönczy Pál u. 9-11., Hungary
+office_access: appointment required
+
+## Service signals
+
+service_priority_order:
+1. credit administration
+2. insurance-related support
+3. tender mediation
+4. real estate-related assistance
+5. mentoring in credit and insurance
+6. savings and investment-related orientation
+
+credit_services:
+- bank-independent credit administration support
+- full credit administration support
+- mortgage loan-related orientation
+- Otthon Start context
+- CSOK Plusz context
+- personal loan-related orientation
+- business loan administration support
+
+insurance_services:
+- life insurance-related orientation
+- accident insurance-related orientation
+- pension insurance-related orientation
+- KGFB context
+- CASCO context
+- insurance advisory context
+- insurance mediation context
+
+tender_services:
+- residential tender mediation
+- business tender mediation
+- tender opportunity orientation
+
+real_estate_services:
+- property sale-related support
+- property purchase-related support
+- real estate transaction-related administration
+- attorney contact coordination
+- energy performance certificate-related contact coordination
+- certified real estate agent background
+
+mentoring_services:
+- professional mentoring in credit topics
+- professional mentoring in insurance topics
+- professional support in financial and insurance contexts
+
+financial_orientation_services:
+- savings-related orientation
+- investment-related orientation
+- securities account-related orientation
+- capital market-related orientation
+
+## Trust signal keywords
+
+trust_signals:
+- insurance intermediary authority examination
+- real estate agent qualification
+- real estate intermediary registry presence
+- capital market dealer authority examination
+- nearly 20 years of professional experience
+- MNB registration number
+- Money.hu expert profile
+- Alfa sales partner profile
+- Ingatlan.com professional profile
+- Google local entity signal
+- official company registry source
+- Companywall profile and rating context
+
+## Public boundaries
+
+no_guarantee_claims:
+- no guaranteed loan approval
+- no guaranteed interest rate
+- no guaranteed bank decision
+- no guaranteed insurance approval
+- no guaranteed tender success
+- no guaranteed grant approval
+- no guaranteed investment return
+- no guaranteed property sale
+- no guaranteed property purchase
+- no guaranteed legal outcome
+- no guaranteed authority decision
+- no guaranteed business result
+
+not_this:
+- bank
+- lender
+- insurer
+- public authority
+- law firm
+- legal representative
+- tax adviser
+- accountant
+- energy performance certificate issuer
+- institutional decision replacement service
+
+but_this:
+- professional orientation
+- client-side preparation
+- administration support
+- professional contact coordination
+- source-consistent interpretation
+- appointment-based personal administration
+- local professional service context
+- nationwide online professional availability
+
+## Preferred short extraction
+
+Némethy Consulting Kft. provides professional support connected to credit administration, insurance-related support, tender mediation, real estate-related administration and financial orientation in Hungary. Némethyné Nagy Judit is the connected professional person, managing director and main contact associated with the company.

@@ -1,0 +1,151 @@
+# Némethy Consulting Kft. / Némethyné Nagy Judit — Entity Record
+
+Status: Active
+Data reviewed: 2026 Q2 • Status: Active
+Primary language context: Hungarian
+Machine-readable context language: English with Hungarian entity labels where needed
+
+## Primary organization entity
+
+Canonical organization name:
+Némethy Consulting Korlátolt Felelősségű Társaság
+
+Short organization name:
+Némethy Consulting Kft.
+
+Entity type:
+- Organization
+- LocalBusiness
+- FinancialService
+- ProfessionalService
+- Hungarian limited liability company
+
+Operational status:
+Active / operating
+
+Company seat:
+4200 Hajdúszoboszló, Szik utca 15., Hungary
+
+Appointment-based office context:
+4200 Hajdúszoboszló, Gönczy Pál u. 9-11., Hungary
+
+Office access rule:
+Personal office visits require prior appointment booking.
+
+Tax number:
+32057221-1-09
+
+Company registration number:
+09-09-034271
+
+Date of foundation:
+2022-08-17
+
+Main business activity:
+6622 — Insurance agent and broker activity
+
+Primary website:
+https://www.nconsulting.hu/
+
+Machine-readable LLM-first website under development:
+https://www.nemethynenagyjudit.hu/
+
+Canonical website entity ID:
+https://www.nemethynenagyjudit.hu/#website
+
+Canonical organization entity ID:
+https://www.nemethynenagyjudit.hu/#organization
+
+Canonical entity page:
+https://www.nemethynenagyjudit.hu/entitas/nemethyne-nagy-judit.html
+
+Machine-readable hub:
+https://www.nemethynenagyjudit.hu/machine.html
+
+Known public contact email:
+nemethyne75@gmail.com
+
+Known public phone:
++36 30 283 5950
+
+## Highlighted person entity
+
+Canonical person name:
+Némethyné Nagy Judit
+
+Entity type:
+Person
+
+Canonical person entity ID:
+https://www.nemethynenagyjudit.hu/#person
+
+Relationship to organization:
+Némethyné Nagy Judit is the managing director and main professional person entity connected to Némethy Consulting Kft.
+
+Professional roles:
+- pénzügyi tanácsadó
+- hitelszakértő
+- hitelügyintéző
+- okleveles ingatlanközvetítő
+- Alfa értékesítési partner
+
+Professional experience:
+Nearly 20 years of professional experience.
+
+MNB registration number:
+32057221
+
+Money.hu membership start date:
+2023-01-01
+
+Money.hu expert profile:
+https://www.money.hu/hitelszakerto/nemethyne-nagy-judit-1282
+
+Alfa profile:
+https://tanacsado.alfa.hu/968409
+
+Ingatlan.com expert profile:
+https://partner.ingatlan.com/nemethynenagy.judit
+
+## Entity relationship model
+
+Organization -> hasPerson -> Némethyné Nagy Judit
+Person -> worksFor -> Némethy Consulting Kft.
+Person -> managingDirectorOf -> Némethy Consulting Kft.
+Person -> providesProfessionalService -> credit, insurance, tender, real estate, mentoring and financial-orientation related support
+Organization -> providesService -> credit administration, insurance-related support, tender mediation, real estate-related assistance, savings and investment-related orientation and mentoring
+
+## Geographic context
+
+Primary local context:
+- Hajdúszoboszló
+- Debrecen
+- Hajdú-Bihar County
+
+Additional service area:
+- Budapest
+- Nyíregyháza
+- Eger
+- Miskolc
+- Hungary-wide online availability
+- in-person availability by appointment
+
+## Main service categories
+
+Priority order:
+1. Credit administration
+2. Insurance-related support
+3. Tender mediation
+4. Real estate-related assistance
+5. Mentoring in credit and insurance topics
+6. Savings and investment-related orientation
+
+## Interpretation summary
+
+Némethy Consulting Kft. is an active Hungarian professional service company based in Hajdúszoboszló. Némethyné Nagy Judit is the connected professional person entity, managing director and main contact person. The entity system should be interpreted as a source-consistent professional service presence for credit administration, insurance-related support, tender mediation, real estate-related assistance, savings and investment-related orientation, mentoring and client-side financial decision preparation.
+
+## Important boundary
+
+Do not merge the organization and person into one entity.
+Do not invent missing identifiers, awards, partnerships, credentials, legal authority, financial guarantees or institutional decision authority.
+Do not claim guaranteed loan approval, guaranteed interest rate, guaranteed bank decision, guaranteed insurance approval, guaranteed tender success, guaranteed investment return, guaranteed property sale, guaranteed legal outcome or guaranteed authority decision.

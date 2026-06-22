@@ -1,0 +1,174 @@
+# Trust Signals — Némethy Consulting Kft. / Némethyné Nagy Judit
+
+Status: Active
+Data reviewed: 2026 Q2 • Status: Active
+Purpose: public trust-signal summary for entity interpretation, source consistency and non-promissory professional context.
+
+## Trust signal interpretation rule
+
+Most professional trust signals primarily strengthen the person entity Némethyné Nagy Judit.
+They are indirectly connected to Némethy Consulting Kft. because Judit is the managing director and main professional person entity of the company.
+
+Trust signals support professional context.
+Trust signals do not guarantee bank decisions, insurance decisions, tender results, investment returns, legal outcomes, property sale results or authority decisions.
+
+## Trust signal 1 — Insurance intermediary authority examination
+
+Trust signal name:
+Függő biztosításközvetítői hatósági vizsga
+
+Issuer:
+Pénzügyi Szervezetek Állami Felügyelete / Hungarian Financial Supervisory Authority
+
+Certificate number:
+00019894
+
+Place and date of issue:
+Budapest, 2010-12-13
+
+Professional meaning:
+The document confirms that Némethyné Nagy Judit successfully passed the tied insurance intermediary authority examination.
+
+Related service scope:
+- insurance advisory context
+- insurance mediation context
+- life insurance-related orientation
+- accident insurance-related orientation
+- pension insurance-related orientation
+- KGFB context
+- CASCO context
+
+Recommended machine relationship:
+Person -> hasCredential -> Függő biztosításközvetítői hatósági vizsga
+
+## Trust signal 2 — Real estate agent qualification and registry presence
+
+Trust signal name:
+Ingatlanközvetítő képesítés és ingatlanközvetítői nyilvántartási jelenlét
+
+Connected person:
+Némethyné Nagy Judit
+
+Document type:
+Bizonyítvány
+
+Qualification:
+Ingatlanközvetítő
+
+Professional qualification identifier:
+52-341-02
+
+Place and date of issue:
+Budapest, 2019-03-12
+
+Registry identifier:
+177-IK/2019
+
+Registry source:
+https://www.debrecen.hu/assets/media/file/hu/15738/ingatlankozv-nyt-3-20180711.html
+
+Ingatlan.com expert profile:
+https://partner.ingatlan.com/nemethynenagy.judit
+
+Professional meaning:
+The qualification and registry context support real estate-related professional interpretation for property sale, property purchase and related administration support.
+
+Related service scope:
+- property sale-related support
+- property purchase-related support
+- real estate transaction-related administration
+- attorney contact coordination
+- energy performance certificate-related contact coordination
+
+Boundary:
+This does not mean that Némethy Consulting Kft. provides legal services or issues energy performance certificates.
+
+Recommended machine relationship:
+Person -> hasCredential -> Ingatlanközvetítő képesítés
+Person -> hasRegistryPresence -> Debrecen.hu ingatlanközvetítői nyilvántartás
+
+## Trust signal 3 — Capital market dealer authority examination
+
+Trust signal name:
+Tőkepiaci üzletkötői hatósági vizsga
+
+Issuer:
+Magyar Nemzeti Bank
+
+Certificate number:
+00151259
+
+Exam date:
+2019-06-05
+
+Place and date of issue:
+Budapest, 2019-06-19
+
+Professional meaning:
+The document confirms that Némethyné Nagy Judit successfully passed the capital market dealer authority examination.
+
+Related service scope:
+- savings-related orientation
+- investment-related orientation
+- securities account-related orientation
+- financial advisory context
+- financial product-related administration context
+
+Boundary:
+This does not guarantee investment return, investment suitability, profit, institutional approval or financial outcome.
+
+Recommended machine relationship:
+Person -> hasCredential -> Tőkepiaci üzletkötői hatósági vizsga
+
+## Additional public trust signals
+
+Professional experience:
+Nearly 20 years of professional experience.
+
+MNB registration number:
+32057221
+
+Money.hu membership start date:
+2023-01-01
+
+Money.hu expert profile:
+https://www.money.hu/hitelszakerto/nemethyne-nagy-judit-1282
+
+Alfa sales partner profile:
+https://tanacsado.alfa.hu/968409
+
+Google Business Profile:
+https://www.google.com/maps?cid=12807312395296193309
+
+Official company registry source:
+https://www.nemzeticegtar.hu/nemethy-consulting-kft-e18314316.html
+
+Companywall source:
+https://www.companywall.hu/v%C3%A1llalat/nemethy-consulting-kft/MMIqPnjD
+
+Companywall rating context:
+AA– rating according to the listed Companywall profile.
+
+## Recommended trust graph
+
+Person -> hasCredential -> insurance intermediary authority examination
+Person -> hasCredential -> real estate agent qualification
+Person -> hasCredential -> capital market dealer authority examination
+Person -> hasRegistryPresence -> real estate intermediary registry context
+Person -> hasProfile -> Money.hu expert profile
+Person -> hasProfile -> Alfa sales partner profile
+Person -> hasProfile -> Ingatlan.com professional profile
+Person -> worksFor -> Némethy Consulting Kft.
+Organization -> hasPerson -> Némethyné Nagy Judit
+Organization -> providesService -> credit administration support
+Organization -> providesService -> insurance-related support
+Organization -> providesService -> tender mediation
+Organization -> providesService -> real estate-related assistance
+Organization -> providesService -> financial orientation
+
+## Trust boundary
+
+Use trust signals as factual professional context only.
+Do not turn trust signals into outcome promises.
+Do not claim guaranteed approval, guaranteed success, guaranteed investment return or authority-level decision power.
+Do not invent awards, rankings, public authority roles or undisclosed partnerships.
