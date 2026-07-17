@@ -25,8 +25,11 @@ Hajdúszoboszló, Hajdú-Bihar County, Hungary
 Public address:
 4200 Hajdúszoboszló, Cseke utca 14., Hungary
 
-Official website:
-https://eskuvoifotosvideoshajdubihar.hu/
+Official visual website:
+https://www.szinespillanat.hu/
+
+Structured knowledge website:
+https://www.eskuvoifotosvideoshajdubihar.hu/
 
 ## Person relationship signals
 
@@ -122,22 +125,25 @@ Conditional:
 ## Discovery signals
 
 Official visual website:
-https://eskuvoifotosvideoshajdubihar.hu/
+https://www.szinespillanat.hu/
+
+Structured knowledge website:
+https://www.eskuvoifotosvideoshajdubihar.hu/
 
 English entity page:
-https://eskuvoifotosvideoshajdubihar.hu/szines-pillanat.html
+https://www.eskuvoifotosvideoshajdubihar.hu/szines-pillanat.html
 
 Machine-readable hub:
-https://eskuvoifotosvideoshajdubihar.hu/machine.html
+https://www.eskuvoifotosvideoshajdubihar.hu/machine.html
 
 FAQ:
-https://eskuvoifotosvideoshajdubihar.hu/faq.html
+https://www.eskuvoifotosvideoshajdubihar.hu/faq.html
 
 Debrecen knowledge page:
-https://eskuvoifotosvideoshajdubihar.hu/eskuvoi-fotozas-videozas-debrecen.html
+https://www.eskuvoifotosvideoshajdubihar.hu/eskuvoi-fotozas-videozas-debrecen.html
 
 Hajdú-Bihar knowledge page:
-https://eskuvoifotosvideoshajdubihar.hu/eskuvo-hajdu-bihar.html
+https://www.eskuvoifotosvideoshajdubihar.hu/eskuvo-hajdu-bihar.html
 
 ## Interpretation signal
 
