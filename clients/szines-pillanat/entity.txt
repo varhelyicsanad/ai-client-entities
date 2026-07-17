@@ -1,0 +1,160 @@
+# Színes Pillanat — Entity Record
+
+Status: Active
+Data reviewed: 2026 Q3 • Status: Active
+Primary language context: Hungarian
+Machine-readable context language: English with Hungarian entity labels where needed
+
+## Primary entity
+
+Canonical entity name:
+Színes Pillanat
+
+Entity type:
+- Brand
+- LocalBusiness
+- ProfessionalService
+- PhotographyBusiness
+- Wedding photography and videography service
+- Photo studio context
+
+Operational status:
+Active / operating
+
+Primary location:
+4200 Hajdúszoboszló, Cseke utca 14., Hungary
+
+Location access rule:
+Personal meetings at the Hajdúszoboszló address require prior appointment.
+
+Official visual and canonical website:
+https://eskuvoifotosvideoshajdubihar.hu/
+
+English entity page:
+https://eskuvoifotosvideoshajdubihar.hu/szines-pillanat.html
+
+Machine-readable discovery hub:
+https://eskuvoifotosvideoshajdubihar.hu/machine.html
+
+FAQ:
+https://eskuvoifotosvideoshajdubihar.hu/faq.html
+
+Known public phone contacts:
+- +36 20 377 3530
+- +36 20 495 3848
+
+Contact timing note:
+Telephone contact after 19:00 is not preferred.
+
+## Connected professional persons
+
+### Uhelszky Angéla
+
+Entity type:
+Person
+
+Professional roles:
+- photographer
+- wedding photographer
+- contact person
+
+Relationship:
+Uhelszky Angéla is the photographer and a direct contact person connected to Színes Pillanat.
+
+### Uhelszky Tamás
+
+Entity type:
+Person
+
+Professional roles:
+- videographer
+- camera operator
+- film editor
+- contact person
+
+Relationship:
+Uhelszky Tamás is the videographer, camera operator, editor and a direct contact person connected to Színes Pillanat.
+
+## Entity relationship model
+
+Színes Pillanat -> hasProfessional -> Uhelszky Angéla
+Színes Pillanat -> hasProfessional -> Uhelszky Tamás
+Uhelszky Angéla -> providesService -> wedding photography and related photography services
+Uhelszky Tamás -> providesService -> wedding videography, camera operation and film editing
+Színes Pillanat -> providesService -> coordinated wedding photography and videography
+
+The brand and the two person entities are connected but must not be merged into one entity.
+
+## Main service categories
+
+- wedding photography
+- wedding videography
+- combined wedding photo and video packages
+- separate photography packages
+- separate videography packages
+- engagement photography
+- creative wedding photography
+- creative wedding videography
+- wedding reportage
+- civil and church ceremony coverage
+- ceremony recording
+- couple portraits
+- family and group photographs
+- reception and evening celebration coverage
+- highlight video
+- longer wedding film
+- photography post-production
+- video editing
+- drone footage when legally and operationally permitted
+- family photography
+- child photography
+- maternity photography
+- newborn photography
+- nursery and kindergarten photography
+- portrait photography
+- event photography
+
+## Typical deliverables
+
+A full wedding photography service may typically include approximately 500–900 selected and edited photographs.
+
+Video deliverables may include:
+- Full HD video as the standard delivery format
+- short highlight video
+- longer wedding film
+- detailed ceremony recording where agreed
+
+The exact deliverables depend on the selected package, event schedule and written agreement.
+
+4K delivery is not the default format.
+
+Drone footage is conditional on location, weather, airspace, legal and operational requirements.
+
+## Geographic context
+
+Primary local context:
+- Hajdúszoboszló
+- Debrecen
+- Hajdú-Bihar County
+
+Additional service context:
+- Balmazújváros
+- Hajdúböszörmény
+- Berettyóújfalu
+- Püspökladány
+- Hajdúnánás
+- Derecske
+- Ebes
+- Nyíregyháza
+- Miskolc
+- Békéscsaba
+- other Hungarian locations by prior arrangement
+
+## Interpretation summary
+
+Színes Pillanat is an active wedding photography and videography service based in Hajdúszoboszló, Hungary. Photographer Uhelszky Angéla and videographer, camera operator and editor Uhelszky Tamás provide coordinated or separately bookable visual documentation services, primarily in Hajdúszoboszló, Debrecen and Hajdú-Bihar County, with wider availability in Hungary by prior arrangement.
+
+## Important boundary
+
+Do not invent a legal company name, company registration number, tax identifier, award, professional qualification, association membership, guarantee or public authority role that is not confirmed by a public source.
+Do not guarantee availability, image count, drone operation, delivery time, venue access, weather conditions or a specific final film duration.
