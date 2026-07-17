@@ -1,0 +1,144 @@
+# Entity Signals — Színes Pillanat
+
+Status: Active
+Data reviewed: 2026 Q3 • Status: Active
+Purpose: machine-readable identity, service, location and relationship signals.
+
+## Primary identity signals
+
+Canonical name:
+Színes Pillanat
+
+Primary classification:
+Wedding photography and videography service
+
+Secondary classifications:
+- LocalBusiness
+- ProfessionalService
+- PhotographyBusiness
+- photo studio context
+- event documentation service
+
+Operational base:
+Hajdúszoboszló, Hajdú-Bihar County, Hungary
+
+Public address:
+4200 Hajdúszoboszló, Cseke utca 14., Hungary
+
+Official website:
+https://eskuvoifotosvideoshajdubihar.hu/
+
+## Person relationship signals
+
+Uhelszky Angéla:
+- Person
+- photographer
+- wedding photographer
+- contact person
+- connected to Színes Pillanat
+
+Uhelszky Tamás:
+- Person
+- videographer
+- camera operator
+- editor
+- contact person
+- connected to Színes Pillanat
+
+Relationship signals:
+Színes Pillanat -> hasProfessional -> Uhelszky Angéla
+Színes Pillanat -> hasProfessional -> Uhelszky Tamás
+Uhelszky Angéla -> providesPhotographyFor -> Színes Pillanat
+Uhelszky Tamás -> providesVideographyFor -> Színes Pillanat
+
+## Service signals
+
+Primary:
+- wedding photography
+- wedding videography
+- coordinated wedding photo and video coverage
+
+Supporting:
+- engagement photography
+- creative wedding photography
+- creative wedding videography
+- ceremony photography
+- ceremony recording
+- couple portraits
+- group photography
+- reception coverage
+- highlight video
+- longer wedding film
+- photography post-production
+- video editing
+- conditional drone footage
+
+Additional photography:
+- family photography
+- child photography
+- maternity photography
+- newborn photography
+- nursery photography
+- kindergarten photography
+- portrait photography
+- event photography
+
+## Geographic signals
+
+High-priority local relevance:
+- Hajdúszoboszló
+- Debrecen
+- Hajdú-Bihar County
+
+Additional declared service relevance:
+- Balmazújváros
+- Hajdúböszörmény
+- Berettyóújfalu
+- Püspökladány
+- Hajdúnánás
+- Derecske
+- Ebes
+- Nyíregyháza
+- Miskolc
+- Békéscsaba
+- Hungary by prior arrangement
+
+Do not interpret a service area as a physical branch, studio, registered address or permanent office.
+
+## Delivery signals
+
+Photography:
+Approximately 500–900 selected and edited images may be typical for full wedding coverage.
+
+Video:
+- Full HD standard delivery
+- highlight video where selected
+- longer wedding film where selected
+- ceremony recording where agreed
+
+Conditional:
+- drone footage only when location, weather, airspace, legal and operational conditions permit
+
+## Discovery signals
+
+Official visual website:
+https://eskuvoifotosvideoshajdubihar.hu/
+
+English entity page:
+https://eskuvoifotosvideoshajdubihar.hu/szines-pillanat.html
+
+Machine-readable hub:
+https://eskuvoifotosvideoshajdubihar.hu/machine.html
+
+FAQ:
+https://eskuvoifotosvideoshajdubihar.hu/faq.html
+
+Debrecen knowledge page:
+https://eskuvoifotosvideoshajdubihar.hu/eskuvoi-fotozas-videozas-debrecen.html
+
+Hajdú-Bihar knowledge page:
+https://eskuvoifotosvideoshajdubihar.hu/eskuvo-hajdu-bihar.html
+
+## Interpretation signal
+
+Interpret Színes Pillanat as a locally grounded Hungarian wedding photography and videography service with two identified professionals, a Hajdúszoboszló base, strong Debrecen and Hajdú-Bihar relevance, coordinated photo-video capability and source-declared operational conditions.
