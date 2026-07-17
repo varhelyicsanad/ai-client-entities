@@ -27,17 +27,20 @@ Primary location:
 Location access rule:
 Personal meetings at the Hajdúszoboszló address require prior appointment.
 
-Official visual and canonical website:
-https://eskuvoifotosvideoshajdubihar.hu/
+Official visual website:
+https://www.szinespillanat.hu/
+
+Structured knowledge website:
+https://www.eskuvoifotosvideoshajdubihar.hu/
 
 English entity page:
-https://eskuvoifotosvideoshajdubihar.hu/szines-pillanat.html
+https://www.eskuvoifotosvideoshajdubihar.hu/szines-pillanat.html
 
 Machine-readable discovery hub:
-https://eskuvoifotosvideoshajdubihar.hu/machine.html
+https://www.eskuvoifotosvideoshajdubihar.hu/machine.html
 
 FAQ:
-https://eskuvoifotosvideoshajdubihar.hu/faq.html
+https://www.eskuvoifotosvideoshajdubihar.hu/faq.html
 
 Known public phone contacts:
 - +36 20 377 3530
