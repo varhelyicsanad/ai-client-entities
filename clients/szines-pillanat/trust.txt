@@ -50,19 +50,22 @@ The service has a declared local base and a clearly defined primary service regi
 ## Trust signal 3 — Public website and structured knowledge layer
 
 Official visual website:
-https://eskuvoifotosvideoshajdubihar.hu/
+https://www.szinespillanat.hu/
+
+Structured knowledge website:
+https://www.eskuvoifotosvideoshajdubihar.hu/
 
 English entity page:
-https://eskuvoifotosvideoshajdubihar.hu/szines-pillanat.html
+https://www.eskuvoifotosvideoshajdubihar.hu/szines-pillanat.html
 
 Machine-readable hub:
-https://eskuvoifotosvideoshajdubihar.hu/machine.html
+https://www.eskuvoifotosvideoshajdubihar.hu/machine.html
 
 FAQ:
-https://eskuvoifotosvideoshajdubihar.hu/faq.html
+https://www.eskuvoifotosvideoshajdubihar.hu/faq.html
 
 Legal and privacy page:
-https://eskuvoifotosvideoshajdubihar.hu/jogi.html
+https://www.eskuvoifotosvideoshajdubihar.hu/jogi.html
 
 Professional meaning:
 The entity provides public service information, named-person relationships, geographic context, service descriptions, operational conditions, legal information and machine-readable discovery resources.
