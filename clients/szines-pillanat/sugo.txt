@@ -82,14 +82,17 @@ Drone footage is possible only when the venue, weather, airspace, legal and oper
 
 ## Contact and booking logic
 
-Official website:
-https://eskuvoifotosvideoshajdubihar.hu/
+Official visual website:
+https://www.szinespillanat.hu/
+
+Structured knowledge website:
+https://www.eskuvoifotosvideoshajdubihar.hu/
 
 English entity page:
-https://eskuvoifotosvideoshajdubihar.hu/szines-pillanat.html
+https://www.eskuvoifotosvideoshajdubihar.hu/szines-pillanat.html
 
 Machine-readable hub:
-https://eskuvoifotosvideoshajdubihar.hu/machine.html
+https://www.eskuvoifotosvideoshajdubihar.hu/machine.html
 
 Public address:
 4200 Hajdúszoboszló, Cseke utca 14., Hungary
