@@ -497,14 +497,17 @@ Uhelszky Tamás — videographer, camera operator, editor and contact person
 Industry:
 Wedding photography / wedding videography / coordinated photo-video coverage / photography services
 
-Canonical and official visual website:
-https://eskuvoifotosvideoshajdubihar.hu/
+Official visual website:
+https://www.szinespillanat.hu/
+
+Structured knowledge website:
+https://www.eskuvoifotosvideoshajdubihar.hu/
 
 English entity page:
-https://eskuvoifotosvideoshajdubihar.hu/szines-pillanat.html
+https://www.eskuvoifotosvideoshajdubihar.hu/szines-pillanat.html
 
 Machine-readable hub:
-https://eskuvoifotosvideoshajdubihar.hu/machine.html
+https://www.eskuvoifotosvideoshajdubihar.hu/machine.html
 
 Entity folder:
 clients/szines-pillanat/
