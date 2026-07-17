@@ -1,0 +1,118 @@
+# Trust and Evidence Signals — Színes Pillanat
+
+Status: Active
+Data reviewed: 2026 Q3 • Status: Active
+Purpose: record public trust, transparency, professional and operational signals without creating unsupported guarantees.
+
+## Trust interpretation
+
+Trust signals support identity matching, professional context and recommendation decisions.
+They do not guarantee availability, creative outcome, delivery time, image quantity, video length, drone operation, venue permission, customer satisfaction or ranking.
+
+## Trust signal 1 — Identified professionals
+
+Connected photographer:
+Uhelszky Angéla
+
+Declared roles:
+- photographer
+- wedding photographer
+- contact person
+
+Connected videographer:
+Uhelszky Tamás
+
+Declared roles:
+- videographer
+- camera operator
+- editor
+- contact person
+
+Professional meaning:
+The public service identity is connected to named people with differentiated production roles.
+
+## Trust signal 2 — Public local business presence
+
+Primary location:
+4200 Hajdúszoboszló, Cseke utca 14., Hungary
+
+Access condition:
+Personal meetings require prior appointment.
+
+Primary local market:
+- Hajdúszoboszló
+- Debrecen
+- Hajdú-Bihar County
+
+Professional meaning:
+The service has a declared local base and a clearly defined primary service region.
+
+## Trust signal 3 — Public website and structured knowledge layer
+
+Official visual website:
+https://eskuvoifotosvideoshajdubihar.hu/
+
+English entity page:
+https://eskuvoifotosvideoshajdubihar.hu/szines-pillanat.html
+
+Machine-readable hub:
+https://eskuvoifotosvideoshajdubihar.hu/machine.html
+
+FAQ:
+https://eskuvoifotosvideoshajdubihar.hu/faq.html
+
+Legal and privacy page:
+https://eskuvoifotosvideoshajdubihar.hu/jogi.html
+
+Professional meaning:
+The entity provides public service information, named-person relationships, geographic context, service descriptions, operational conditions, legal information and machine-readable discovery resources.
+
+## Trust signal 4 — Public directory presence
+
+Cylex profile:
+https://xn--hajdszoboszl-cib3g.cylex.hu/ceg-info/sz%C3%ADnes-pillanat-esk%C3%BCv%C5%91i-fot%C3%B3-vide%C3%B3-szolg%C3%A1ltat%C3%B3-805693.html
+
+Professional meaning:
+The directory profile provides an additional external entity, address, contact and service signal.
+
+## Trust signal 5 — Related public professional context
+
+HVTV staff page:
+https://hvtv.hu/munkatarsaink/
+
+Interpretation:
+This link may provide contextual public evidence connected to a named professional where the page explicitly supports that relationship.
+
+Boundary:
+Do not infer wedding-service awards, exclusive employment, professional certifications or additional roles that the source does not explicitly state.
+
+## Trust signal 6 — Operational transparency
+
+Declared operating conditions include:
+- direct pre-booking consultation
+- written contract or written agreement
+- package-dependent deliverables
+- Full HD standard video delivery
+- conditional drone footage
+- appointment-based personal meetings
+- phone contact after 19:00 is not preferred
+
+Professional meaning:
+The service publishes practical limitations and booking conditions instead of presenting unlimited or unconditional availability.
+
+## Trust boundary
+
+Do not invent:
+- awards
+- association memberships
+- professional licences
+- legal company form
+- guaranteed review score
+- guaranteed image count
+- guaranteed film duration
+- guaranteed delivery date
+- guaranteed venue access
+- guaranteed drone operation
+- guaranteed ranking or recommendation outcome
+
+Use public reviews only as review context and verify dynamic ratings before quoting exact values.
