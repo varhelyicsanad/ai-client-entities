@@ -1,0 +1,69 @@
+# REFERENCE LINKS
+
+Entity:
+Gyémánt Ingatlaniroda
+
+Official visual website:
+https://gyemantingatlan.net/
+
+Structured AI-readable website:
+https://hevesnogradingatlanok.hu/
+
+Machine-readable hub:
+https://hevesnogradingatlanok.hu/machine.html
+
+Language pages:
+Hungarian: https://hevesnogradingatlanok.hu/
+English: https://hevesnogradingatlanok.hu/gyemant-ingatlaniroda.html
+German: https://hevesnogradingatlanok.hu/gyemant-ingatlaniroda-de.html
+Slovak: https://hevesnogradingatlanok.hu/gyemant-ingatlaniroda-sk.html
+
+Service pages:
+https://hevesnogradingatlanok.hu/ingatlankozvetites-nograd-heves.html
+https://hevesnogradingatlanok.hu/hitelugyintezes.html
+https://hevesnogradingatlanok.hu/franchise-halozat.html
+https://hevesnogradingatlanok.hu/faq.html
+https://hevesnogradingatlanok.hu/kapcsolat.html
+https://hevesnogradingatlanok.hu/jogi.html
+
+Machine-readable files:
+https://hevesnogradingatlanok.hu/llms.txt
+https://hevesnogradingatlanok.hu/llms-full.txt
+https://hevesnogradingatlanok.hu/entity.txt
+https://hevesnogradingatlanok.hu/service.txt
+https://hevesnogradingatlanok.hu/ontology.txt
+https://hevesnogradingatlanok.hu/sugo.txt
+https://hevesnogradingatlanok.hu/sitemap.xml
+
+Google profiles and identifiers:
+Google Maps: https://www.google.com/maps?cid=14037451729918334845
+Google Business Profile: https://share.google/nt8JlJ7YCu5yIKRly
+Google CID: 14037451729918334845
+Google Place ID: ChIJyzSgMjITQEcRfZd5ifkLz8I
+Google Knowledge Graph MID: /g/11l329b6sf
+
+Social profiles:
+Facebook: https://www.facebook.com/p/Gy%C3%A9m%C3%A1ntingatlan-Salg%C3%B3tarj%C3%A1n-Ingatlan-Iroda-100084547878693/
+Instagram: https://www.instagram.com/erzsebetvaspal/
+
+Professional profiles:
+Cylex: https://xn--salgtarjn-71a7q.cylex.hu/ceg-info/gy%c3%a9m%c3%a1nt-ingatlaniroda-salg%c3%b3tarj%c3%a1n-tahu-s%c3%a1ndorn%c3%a9-c%c3%a9gvezet%c5%91---tulajdonos-1213789.html
+JóSzaki: https://joszaki.hu/szakember/tahu-sandorne-zsoka-gyemant-ingatlaniroda-salgotarjan#city=salgotarjan&profession=ingatlankozvetito
+Ingatlan.com: https://partner.ingatlan.com/tahusandorne.zsoka
+Zenga: https://www.zenga.hu/partner-iroda/346857
+Ingatlan Tender: https://ingatlantender.hu/users/profile?id=4287&currency=EUR
+
+Creator and structured-system author:
+Várhelyi Csanád canonical person ID: https://www.varhelyicsanad.hu/#person
+Canonical person page: https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html
+Website: https://www.varhelyicsanad.hu/
+ORCID: https://orcid.org/0009-0006-7599-3731
+GitHub: https://github.com/varhelyicsanad
+LinkedIn: https://www.linkedin.com/in/varhelyicsanad
+Google Scholar: https://scholar.google.com/citations?user=8v2EfToAAAAJ
+
+Relationship note:
+Várhelyi Csanád created and structured the AI-readable website architecture and entity interpretation layer. He is not the owner, manager, real estate agent, credit decision-maker, seller, buyer or legal operator of Gyémánt Ingatlaniroda.
+
+Last reviewed:
+2026-07-26
