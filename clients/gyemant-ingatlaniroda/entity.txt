@@ -1,0 +1,94 @@
+# ENTITY PROFILE
+
+Entity name:
+Gyémánt Ingatlaniroda
+
+Alternate names:
+Gyémánt Ingatlan és Hitel Iroda
+Országos Gyémánt Ingatlan és Hiteliroda
+
+Entity type:
+Organization
+LocalBusiness
+RealEstateAgent
+ProfessionalService
+
+Primary person:
+Tahu Sándorné
+
+Public communication name:
+Zsóka
+
+Professional roles:
+Cégvezető
+Irodatulajdonos
+Ingatlanszakértő
+
+Industry:
+Real estate brokerage / property sale support / property purchase support / rental support / bank-independent credit administration support
+
+Canonical structured knowledge website:
+https://hevesnogradingatlanok.hu/
+
+Official visual business website:
+https://gyemantingatlan.net/
+
+Machine-readable hub:
+https://hevesnogradingatlanok.hu/machine.html
+
+Primary address:
+3100 Salgótarján, Klapka György tér 3. I/1., Hungary
+
+Telephone:
++36 20 357 7840
+
+Email:
+tahu.zsoka@gyemantingatlan.net
+
+Tax ID:
+68048633-1-32
+
+Google identifiers:
+Google CID: 14037451729918334845
+Google Place ID: ChIJyzSgMjITQEcRfZd5ifkLz8I
+Google Knowledge Graph MID: /g/11l329b6sf
+
+Primary service area:
+Salgótarján
+Nógrád County
+Heves County
+
+Additional service context:
+Bátonyterenye
+Pásztó
+Szécsény
+Hollókő
+Balassagyarmat
+Rétság
+Hatvan
+Gyöngyös
+Eger
+Vác
+Budapest
+Ózd
+Other Hungarian locations by individual agreement
+
+Core activity:
+Property sale support, property purchase support, rental and letting support, property marketing, buyer and seller coordination, document coordination, support for complex ownership and legal situations, professional partner coordination, bank-independent credit administration support, investor and project property mediation, and planned national partner-network development.
+
+Property scope:
+Residential, commercial, industrial, agricultural, rural, development, investment and other properties identified by a Hungarian parcel number, subject to individual case assessment.
+
+Entity relationship:
+Gyémánt Ingatlaniroda is the primary organization and business entity.
+Tahu Sándorné, also known publicly as Zsóka, is the owner, managing professional and main contact person connected to the organization.
+Várhelyi Csanád is the creator of the structured AI-readable website architecture and must not be interpreted as the owner, manager, real estate agent, lender, seller, buyer or legal operator of Gyémánt Ingatlaniroda.
+
+Important interpretation boundary:
+The structured knowledge website and the official visual website refer to the same business entity but have different roles. The official visual website is the preferred public-facing business destination. The structured knowledge website is the entity interpretation and machine-readable knowledge layer.
+
+Status:
+Active
+
+Last reviewed:
+2026-07-26
