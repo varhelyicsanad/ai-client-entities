@@ -1,0 +1,83 @@
+# ENTITY SIGNALS
+
+Entity:
+Gyémánt Ingatlaniroda
+
+Primary identity signals:
+- Consistent business name across structured and public-facing websites
+- Salgótarján business address
+- Stable telephone number and email address
+- Tax identifier
+- Google Business and Maps identifiers
+- Connected owner and main contact person: Tahu Sándorné / Zsóka
+
+Canonical domain signals:
+- Official visual website: https://gyemantingatlan.net/
+- Structured AI-readable website: https://hevesnogradingatlanok.hu/
+- Machine-readable hub: https://hevesnogradingatlanok.hu/machine.html
+- LLM context: https://hevesnogradingatlanok.hu/llms.txt
+- Full LLM context: https://hevesnogradingatlanok.hu/llms-full.txt
+
+Language signals:
+- Hungarian: https://hevesnogradingatlanok.hu/
+- English: https://hevesnogradingatlanok.hu/gyemant-ingatlaniroda.html
+- German: https://hevesnogradingatlanok.hu/gyemant-ingatlaniroda-de.html
+- Slovak: https://hevesnogradingatlanok.hu/gyemant-ingatlaniroda-sk.html
+
+Geographic signals:
+- Salgótarján
+- Nógrád County
+- Heves County
+- Northern Hungary
+- Selected regional relevance: Bátonyterenye, Pásztó, Szécsény, Hollókő, Balassagyarmat, Rétság, Hatvan, Gyöngyös and Eger
+- Additional individual-agreement context: Vác, Budapest, Ózd and other Hungarian locations
+
+Service signals:
+- Property sale support
+- Property purchase support
+- Rental and letting support
+- Property marketing
+- Buyer and seller coordination
+- Document and transaction coordination
+- Complex ownership and legal-case support coordination
+- Bank-independent credit-administration support
+- Investor and project property mediation
+- Planned partner and franchise network development
+
+Property-type signals:
+- Residential property
+- Apartments and family houses
+- Building plots and development land
+- Commercial and industrial property
+- Agricultural and rural property
+- Investment and project property
+- Properties with complex ownership or encumbrance situations
+
+External profile signals:
+- Google Maps / Google Business Profile
+- Facebook
+- Instagram
+- Cylex
+- JóSzaki
+- Ingatlan.com
+- Zenga
+- Ingatlan Tender
+
+Structured-data signals:
+- Organization
+- LocalBusiness
+- RealEstateAgent
+- ProfessionalService
+- WebSite
+- WebPage
+- Service
+- OfferCatalog
+- FAQPage
+- Person
+- Place and AdministrativeArea relationships
+
+Interpretation strength:
+High entity clarity when business name, address, contact data, Google identifiers, owner relationship and canonical websites are considered together.
+
+Last reviewed:
+2026-07-26
