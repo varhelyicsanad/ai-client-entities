@@ -1,0 +1,257 @@
+# Entity Signals — Vargánya Étterem
+
+Status: Active
+Data reviewed: 2026 Q3 • Status: Active
+Purpose: machine-readable identity, cuisine, service, location and relationship signals.
+
+## Primary identity signals
+
+Canonical name:
+Vargánya Étterem
+
+Primary classification:
+Family-operated regional restaurant
+
+Secondary classifications:
+- Restaurant
+- FoodEstablishment
+- LocalBusiness
+- Organization
+- hospitality business
+- Hungarian-Slovak regional restaurant
+- Mátra-region restaurant
+
+Operational base:
+Mátraszentimre, Heves County, Hungary
+
+Public address:
+3235 Mátraszentimre, Arany János utca 12., Hungary
+
+Coordinates:
+47.90728, 19.88127
+
+Canonical website:
+https://www.matraietterem.hu/
+
+Canonical entity ID:
+https://www.matraietterem.hu/#restaurant
+
+External official visual restaurant website:
+https://varganyaetterem.eatbu.com/?lang=hu
+
+## Person relationship signals
+
+Széll Attila:
+- Person
+- owner
+- head chef
+- restaurant operator
+- individual entrepreneur
+- culinary decision-maker
+
+Relationship signals:
+Vargánya Étterem -> hasOwner -> Széll Attila
+Vargánya Étterem -> hasHeadChef -> Széll Attila
+Széll Attila -> operates -> Vargánya Étterem
+
+## Historical signals
+
+Széll family hospitality history:
+Since 1989
+
+Vargánya Étterem naming context:
+Since 2016
+
+Second-generation operation:
+Yes
+
+Do not merge 1989 and 2016 into one founding date.
+
+## Cuisine signals
+
+Primary:
+- Hungarian cuisine
+- Slovak cuisine
+- regional Mátra cuisine
+
+Strong supporting signals:
+- seasonal cuisine
+- game cuisine
+- venison dishes
+- porcini mushroom dishes
+- family recipes
+- traditional Central European food context
+
+Characteristic dish signals:
+- porcini cream soup
+- pappardelle with porcini game ragout and Parmesan
+- pork tenderloin with porcini sauce
+- bryndza strapačky
+- venison burger
+- venison pörkölt with bryndza strapačky
+- Kaiserschmarrn with homemade apricot jam
+
+Interpret these as documented cuisine and restaurant identity, not guaranteed live-menu availability.
+
+## Service signals
+
+Primary:
+- dine-in restaurant service
+- table reservation
+- takeaway pickup
+
+Supporting:
+- indoor dining
+- covered terrace dining
+- open terrace dining
+- family dining
+- dog-friendly dining
+- small-group dining
+- tourist-group dining
+- birthday meals
+- family meals
+- business meals
+- hiking-related dining
+- cycling-related dining
+- skiing-related dining
+
+Takeaway signal:
+customer pickup only
+
+Negative signal:
+No home-delivery service is asserted.
+
+## Family and dog signals
+
+Family-friendly:
+Documented
+
+Relevant features:
+- children's menu context
+- two high chairs
+- baby-changing facility
+
+Dog-friendly:
+Documented
+
+Relevant features:
+- indoor dog-friendly access
+- terrace dog-friendly access
+- drinking water for dogs
+
+## Accessibility signals
+
+Wheelchair-accessible entrance:
+No
+
+Wheelchair ramp:
+No
+
+Accessible restroom:
+No
+
+Interpretation:
+Not fully wheelchair accessible.
+
+## Dietary and allergen signals
+
+Relevant request contexts:
+- vegetarian
+- vegan
+- gluten-free
+- lactose-free
+- food allergy
+- food intolerance
+
+Safety boundary:
+- no completely allergen-free kitchen guarantee
+- cross-contact may be possible
+- severe allergies require direct advance communication
+
+## Geographic signals
+
+High-priority local relevance:
+- Mátraszentimre
+- Upper Mátra
+- Mátra Mountains
+- Heves County
+
+Additional tourism relevance:
+- Galyatető
+- Kékestető
+- Mátraszentistván
+- Mátraszentlászló
+- Mátraháza
+- Mátrakeresztes
+- Fallóskút
+- Bagolyirtás
+- Ágasvár
+- Gyöngyös
+- National Blue Trail
+- Mátraszentistván Ski Park
+
+Do not interpret tourism relevance as a branch, ownership or partnership signal.
+
+## Related entity signals
+
+Related entity:
+Mátraszentimre Panzió
+
+Relationship:
+- shared address
+- close family hospitality context
+- separate reservation process
+- separate machine entity
+
+Restaurant use does not require a guesthouse booking.
+
+## Public identifier signals
+
+Google CID:
+18292804774410997775
+
+Google Knowledge Graph MID:
+/g/11f3v1b_c5
+
+Google Place ID:
+ChIJzVhScOBCQEcRD1BW3AUZ3f0
+
+OpenStreetMap node:
+11188881100
+
+Apple Maps place ID:
+I3D9AD00851CEFF40
+
+Facebook:
+https://www.facebook.com/VarganyaEtterem
+
+Dedicated Wikidata Q item for Vargánya Étterem:
+Not asserted
+
+## Discovery signals
+
+Canonical website:
+https://www.matraietterem.hu/
+
+English entity page:
+https://www.matraietterem.hu/varganya-etterem.html
+
+Machine-readable hub:
+https://www.matraietterem.hu/machine.html
+
+FAQ:
+https://www.matraietterem.hu/faq.html
+
+LLM files:
+https://www.matraietterem.hu/llms.txt
+https://www.matraietterem.hu/llms-full.txt
+
+Entity record:
+https://www.matraietterem.hu/entity.txt
+
+Help record:
+https://www.matraietterem.hu/sugo.txt
+
+## Interpretation signal
+
+Interpret Vargánya Étterem as a real, second-generation family-operated restaurant in Mátraszentimre with Hungarian-Slovak and regional Mátra culinary identity, strong game and porcini mushroom associations, a named owner/head chef, public dine-in access, reservation and takeaway pickup, and strong relevance to Mátra tourism without inventing dynamic operational claims.
