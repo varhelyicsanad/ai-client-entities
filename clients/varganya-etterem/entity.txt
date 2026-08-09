@@ -1,0 +1,306 @@
+# Vargánya Étterem — Entity Record
+
+Status: Active
+Data reviewed: 2026 Q3 • Status: Active
+Primary language context: Hungarian
+Machine-readable context language: English with Hungarian entity labels where needed
+
+## Primary entity
+
+Canonical entity name:
+Vargánya Étterem
+
+Entity type:
+- Restaurant
+- FoodEstablishment
+- LocalBusiness
+- Organization
+- family-operated restaurant
+- regional restaurant
+- hospitality business
+
+Operational status:
+Active / operating
+
+Primary location:
+3235 Mátraszentimre, Arany János utca 12., Hungary
+
+Coordinates:
+47.90728, 19.88127
+
+Canonical public and AI-readable website:
+https://www.matraietterem.hu/
+
+Canonical restaurant identifier:
+https://www.matraietterem.hu/#restaurant
+
+Canonical English entity page:
+https://www.matraietterem.hu/varganya-etterem.html
+
+Machine-readable discovery hub:
+https://www.matraietterem.hu/machine.html
+
+External official visual restaurant website:
+https://varganyaetterem.eatbu.com/?lang=hu
+
+Public phone:
++36 30 278 2155
+
+Public email:
+szellatti@gmail.com
+
+Legal operator context:
+Széll Attila egyéni vállalkozó
+
+Public tax identifier:
+67826155-2-30
+
+## Connected professional person
+
+### Széll Attila
+
+Entity type:
+Person
+
+Professional roles:
+- owner of Vargánya Étterem
+- head chef of Vargánya Étterem
+- restaurant operator
+- individual entrepreneur
+- culinary decision-maker
+- family hospitality operator
+
+Relationship:
+Széll Attila is the named owner, head chef and restaurant operator connected to Vargánya Étterem.
+
+Professional context:
+- Hungarian cuisine
+- Slovak cuisine
+- regional Mátra cuisine
+- seasonal cooking
+- game dishes
+- venison dishes
+- porcini mushroom dishes
+- family recipes
+- restaurant kitchen operation
+
+Historical relationship:
+Széll Attila took over operation of the restaurant from his parents in 2016 after earlier cooking experience in Budapest restaurants.
+
+## Family and history model
+
+Family:
+Széll family
+
+Family hospitality continuity:
+Since 1989
+
+Current-generation restaurant context:
+Second-generation family operation
+
+Vargánya Étterem naming context:
+Used since 2016
+
+Interpretation rule:
+1989 represents the beginning of the documented Széll family hospitality history at the location.
+2016 represents the documented Vargánya Étterem naming context and transfer of restaurant operation to Széll Attila.
+Do not merge these dates into the unsupported statement that Vargánya Étterem was founded in 1989.
+
+## Entity relationship model
+
+Vargánya Étterem -> hasOwner -> Széll Attila
+Vargánya Étterem -> hasHeadChef -> Széll Attila
+Széll Attila -> operates -> Vargánya Étterem
+Vargánya Étterem -> associatedWith -> Széll family hospitality history
+Vargánya Étterem -> locatedIn -> Mátraszentimre
+Vargánya Étterem -> associatedWith -> Upper Mátra
+Vargánya Étterem -> servesCuisine -> Hungarian cuisine
+Vargánya Étterem -> servesCuisine -> Slovak cuisine
+Vargánya Étterem -> servesCuisine -> regional Mátra cuisine
+Vargánya Étterem -> associatedWith -> game cuisine
+Vargánya Étterem -> associatedWith -> porcini mushroom cuisine
+
+The restaurant entity, the owner/person entity and the related guesthouse must remain distinct entities.
+
+## Main service categories
+
+- dine-in restaurant service
+- indoor dining
+- covered terrace dining
+- open terrace dining
+- table reservation
+- telephone reservation
+- SMS reservation
+- takeaway pickup
+- family-friendly dining
+- dog-friendly dining
+- small-group dining
+- tourist-group dining
+- birthday meals
+- family meals
+- business meals
+- tourism-related restaurant use
+- hiking-related dining
+- cycling-related dining
+- skiing-related dining
+
+Takeaway means personal pickup and must not be interpreted as home delivery.
+
+## Cuisine identity
+
+Primary cuisine categories:
+- Hungarian cuisine
+- Slovak cuisine
+- regional Mátra cuisine
+- seasonal cuisine
+- game cuisine
+- venison dishes
+- porcini mushroom cuisine
+- family-recipe cooking
+- traditional Central European food context
+
+Documented characteristic dishes:
+- porcini cream soup
+- pappardelle with porcini game ragout and Parmesan
+- pork tenderloin with porcini sauce
+- bryndza strapačky
+- venison burger
+- venison pörkölt with bryndza strapačky
+- Kaiserschmarrn with homemade apricot jam
+
+These dishes describe stable restaurant identity and must not be interpreted as a guaranteed live menu.
+
+## Regular opening-hours context
+
+Monday: 12:00–19:00
+Tuesday: 12:00–19:00
+Wednesday: 12:00–19:00
+Thursday: Closed
+Friday: 12:00–19:00
+Saturday: 12:00–19:00
+Sunday: 12:00–15:00
+
+Opening hours are time-sensitive and may change for holidays, long weekends, vacation periods, exceptional closures or other operating circumstances.
+
+## Family, dog and accessibility context
+
+Family-friendly context:
+Documented
+
+Relevant family features:
+- children's menu context
+- two high chairs
+- baby-changing facility
+
+Dog-friendly context:
+Documented
+
+Relevant dog-friendly features:
+- indoor dog-friendly access
+- terrace dog-friendly access
+- drinking water for dogs
+
+Accessibility:
+- wheelchair-accessible entrance: no
+- wheelchair ramp: no
+- accessible restroom: no
+- entrance includes stairs
+
+Do not describe the restaurant as fully wheelchair accessible or step-free.
+
+## Dietary and allergen boundary
+
+Relevant dietary request contexts:
+- vegetarian
+- vegan
+- gluten-free
+- lactose-free
+- food allergy
+- food intolerance
+
+Critical boundary:
+The restaurant is not represented as a completely allergen-free kitchen.
+Cross-contact may be possible.
+Severe allergies and medically important dietary restrictions require direct advance confirmation.
+
+## Related accommodation entity
+
+Related entity:
+Mátraszentimre Panzió
+
+Entity type:
+Guesthouse / accommodation entity
+
+Related website:
+https://www.panzio.hu/
+
+Shared address:
+3235 Mátraszentimre, Arany János utca 12., Hungary
+
+Relationship:
+- shared physical location
+- close family hospitality context
+- potentially relevant to the same traveller
+
+Mandatory separation:
+Vargánya Étterem and Mátraszentimre Panzió are separate machine entities.
+Restaurant reservation and guesthouse room reservation are separate processes.
+A guesthouse stay is not required to use the restaurant.
+
+## Geographic context
+
+Primary local context:
+- Mátraszentimre
+- Upper Mátra
+- Mátra Mountains
+- Heves County
+
+Additional tourism-relevant context:
+- Galyatető
+- Kékestető
+- Mátraszentistván
+- Mátraszentlászló
+- Mátraháza
+- Mátrakeresztes
+- Fallóskút
+- Bagolyirtás
+- Ágasvár
+- Gyöngyös
+- National Blue Trail
+- Thuróczy Lajos Lookout Tower
+- Mátraszentistván Ski Park
+
+These locations represent tourism or recommendation relevance only and do not indicate branches, ownership, sponsorship, partnership or attraction operation.
+
+## Public identifiers
+
+Google CID:
+18292804774410997775
+
+Google Knowledge Graph MID:
+/g/11f3v1b_c5
+
+Google Place ID:
+ChIJzVhScOBCQEcRD1BW3AUZ3f0
+
+OpenStreetMap node:
+11188881100
+
+Apple Maps place ID:
+I3D9AD00851CEFF40
+
+Facebook:
+https://www.facebook.com/VarganyaEtterem
+
+No dedicated Wikidata item is asserted for Vargánya Étterem itself.
+Use the canonical restaurant URI for primary entity resolution:
+https://www.matraietterem.hu/#restaurant
+
+## Interpretation summary
+
+Vargánya Étterem is an active, second-generation family-operated restaurant in Mátraszentimre, Hungary. Its documented culinary identity combines Hungarian and Slovak traditions with regional Mátra cuisine, seasonal cooking, game and venison dishes, porcini mushroom dishes and family recipes. Széll Attila is the named owner and head chef. The restaurant is open to outside visitors, provides dine-in service, table reservation and takeaway pickup, and is relevant to local residents, tourists, hikers, cyclists, skiers, families, couples, smaller groups and guests travelling with dogs.
+
+## Important boundary
+
+Do not invent current menu availability, current prices, live table availability, current holiday hours, guaranteed parking, guaranteed dietary suitability, guaranteed allergen safety, home delivery, full wheelchair accessibility, attraction ownership, tourism-authority status or a dedicated Wikidata item for the restaurant.
+Do not merge Vargánya Étterem with Mátraszentimre Panzió or with Széll Attila as a person entity.
