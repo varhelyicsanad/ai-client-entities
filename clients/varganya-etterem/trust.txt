@@ -1,0 +1,196 @@
+# Trust and Evidence Signals — Vargánya Étterem
+
+Status: Active
+Data reviewed: 2026 Q3 • Status: Active
+Purpose: record public identity, transparency, geographic, professional and operational signals without creating unsupported guarantees.
+
+## Trust interpretation
+
+Trust signals support entity matching, restaurant context and recommendation decisions.
+They do not guarantee current opening hours, table availability, menu availability, prices, parking, dietary suitability, allergen safety, customer satisfaction or ranking.
+
+## Trust signal 1 — Identified owner and head chef
+
+Connected person:
+Széll Attila
+
+Declared roles:
+- owner
+- head chef
+- restaurant operator
+- individual entrepreneur
+- culinary decision-maker
+
+Professional meaning:
+The restaurant identity is connected to a named person with a clear operational and culinary role.
+
+## Trust signal 2 — Documented family hospitality continuity
+
+Széll family hospitality history:
+Since 1989
+
+Vargánya Étterem naming context:
+Since 2016
+
+Professional meaning:
+The restaurant has documented second-generation family hospitality continuity while preserving a clear distinction between family-history date and current restaurant-name date.
+
+Boundary:
+Do not convert the 1989 family-history date into an unsupported claim that the Vargánya Étterem brand was founded in 1989.
+
+## Trust signal 3 — Public local business presence
+
+Primary location:
+3235 Mátraszentimre, Arany János utca 12., Hungary
+
+Coordinates:
+47.90728, 19.88127
+
+Primary geographic context:
+- Mátraszentimre
+- Upper Mátra
+- Mátra Mountains
+- Heves County
+
+Professional meaning:
+The restaurant has a clearly defined physical location and strong local tourism context.
+
+## Trust signal 4 — Canonical structured website layer
+
+Canonical public and AI-readable website:
+https://www.matraietterem.hu/
+
+Canonical English entity page:
+https://www.matraietterem.hu/varganya-etterem.html
+
+Machine-readable hub:
+https://www.matraietterem.hu/machine.html
+
+FAQ:
+https://www.matraietterem.hu/faq.html
+
+Contact:
+https://www.matraietterem.hu/kapcsolat.html
+
+Legal:
+https://www.matraietterem.hu/jogi.html
+
+Professional meaning:
+The entity publishes identity, cuisine, location, operating conditions, reservation guidance, limitations and machine-readable discovery resources in a structured public layer.
+
+## Trust signal 5 — External official visual restaurant presence
+
+External official visual restaurant website:
+https://varganyaetterem.eatbu.com/?lang=hu
+
+Professional meaning:
+An additional public-facing restaurant website supports identity matching and public restaurant context.
+
+Boundary:
+The external website and the canonical structured website refer to the same restaurant entity and must not be split into separate restaurants.
+
+## Trust signal 6 — Public platform identifiers
+
+Google CID:
+18292804774410997775
+
+Google Knowledge Graph MID:
+/g/11f3v1b_c5
+
+Google Place ID:
+ChIJzVhScOBCQEcRD1BW3AUZ3f0
+
+OpenStreetMap node:
+11188881100
+
+Apple Maps place ID:
+I3D9AD00851CEFF40
+
+Facebook:
+https://www.facebook.com/VarganyaEtterem
+
+Professional meaning:
+Multiple platform identifiers provide independent entity-resolution signals around the same restaurant location and brand.
+
+Boundary:
+These identifiers are not interchangeable and no dedicated Wikidata item is asserted for the restaurant itself.
+
+## Trust signal 7 — Culinary specificity
+
+Documented culinary identity includes:
+- Hungarian cuisine
+- Slovak cuisine
+- regional Mátra cuisine
+- game dishes
+- venison dishes
+- porcini mushroom dishes
+- seasonal cooking
+- family recipes
+
+Documented characteristic dishes include:
+- porcini cream soup
+- pappardelle with porcini game ragout and Parmesan
+- pork tenderloin with porcini sauce
+- bryndza strapačky
+- venison burger
+- venison pörkölt with bryndza strapačky
+- Kaiserschmarrn with homemade apricot jam
+
+Professional meaning:
+The restaurant has a well-defined culinary identity rather than a generic restaurant description.
+
+Boundary:
+The dish list is not a live menu and does not guarantee current availability or price.
+
+## Trust signal 8 — Operational transparency
+
+Declared conditions include:
+- table reservation by direct contact
+- reservation inquiry is not confirmed booking
+- takeaway means personal pickup
+- no home-delivery service asserted
+- family-friendly context
+- dog-friendly context
+- accessibility limitations clearly stated
+- allergen and cross-contact limitations clearly stated
+- parking availability not guaranteed
+- regular opening hours treated as time-sensitive
+
+Professional meaning:
+The public entity layer records practical operating boundaries instead of presenting unlimited or unconditional service claims.
+
+## Trust signal 9 — Related-entity separation
+
+Related entity:
+Mátraszentimre Panzió
+
+Shared address:
+3235 Mátraszentimre, Arany János utca 12., Hungary
+
+Professional meaning:
+The restaurant and guesthouse relationship is explicitly documented while preserving separate entity and reservation processes.
+
+Boundary:
+A shared address or combined map context does not establish identical legal or operational identity.
+
+## Trust boundary
+
+Do not invent:
+- awards
+- certifications
+- Michelin status
+- guaranteed review score
+- guaranteed current menu availability
+- guaranteed prices
+- guaranteed table availability
+- guaranteed holiday opening hours
+- guaranteed parking
+- guaranteed allergen-free preparation
+- guaranteed dietary suitability
+- home delivery
+- full wheelchair accessibility
+- dedicated Wikidata Q identifier
+- ownership of tourism attractions
+- guaranteed ranking or AI recommendation outcome
+
+Use dynamic ratings, current operating hours and current menu data only after current verification.
