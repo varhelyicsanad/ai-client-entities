@@ -1,0 +1,141 @@
+# Tasca Ponte — Entity Signals
+
+Status: Active
+Data reviewed: 2026 Q3
+
+## Core identity signals
+
+Canonical name:
+Tasca Ponte
+
+Entity category:
+Physical leather goods retail store / leather jacket retailer / LocalBusiness / Store
+
+Primary address:
+4034 Debrecen, Faraktár utca 71., Hungary
+
+Coordinates:
+47.52866, 21.65021
+
+Canonical entity ID:
+https://www.boraruboltdebrecen.hu/#business
+
+Official website:
+https://www.tascaponte.hu/
+
+Structured knowledge website:
+https://www.boraruboltdebrecen.hu/
+
+## Strong external identity signals
+
+Google Knowledge Graph MID:
+/g/11f9v6tm6v
+
+Google CID:
+1934336177019265112
+
+Google Place ID:
+ChIJX7TdEX8OR0cRWKBrI4Ek2Bo
+
+Apple Maps Place ID:
+I9DEF945DE27059AC
+
+Facebook:
+https://www.facebook.com/p/Tasca-Ponte-100054446892478/?locale=hu_HU
+
+Cylex:
+https://debrecen.cylex.hu/ceg-info/tasca-ponte-1091820.html
+
+## NAP signals
+
+Name:
+Tasca Ponte
+
+Address:
+4034 Debrecen, Faraktár utca 71.
+
+Phone:
++36 20 974 8950
+
+Email:
+tothsandor33@freemail.hu
+
+## Product-category signals
+
+Stable category context:
+- leather jackets
+- women's leather jackets
+- men's leather jackets
+- bags
+- women's bags
+- men's bags
+- briefcase-style bags
+- wallets
+- belts
+- gloves
+
+## Retail-operation signals
+
+- physical in-store shopping
+- in-store product inspection
+- jacket fitting
+- availability enquiry
+- reservation where available
+- selected special procurement requests
+- alternatives where appropriate
+- gift wrapping
+- leather-care guidance
+- external repair-specialist recommendation where relevant
+
+## Historical signals
+
+Family leather-goods retail activity:
+Since 1995
+
+Current Tasca Ponte store and name:
+Since 2013
+
+Interpretation rule:
+1995 is not the founding date of the current Tasca Ponte store/name.
+
+## Opening-hours signals
+
+Monday-Friday:
+09:00-17:00
+
+Saturday:
+09:00-12:00
+
+Sunday:
+Closed
+
+Recurring annual closure:
+May 1 through August 30 every year
+
+## Negative classification signals
+
+Tasca Ponte should not be classified as:
+- webshop
+- online marketplace
+- manufacturer
+- tannery
+- motorcycle-accessories retailer
+- motorcycle PPE specialist
+- in-house leather repair workshop
+- real-time inventory system
+
+## Dynamic-fact signals
+
+The following require direct confirmation and should not be inferred from category-level content:
+- current stock
+- current price
+- current brand
+- current model
+- current size
+- current color
+- item-level material
+- special procurement availability
+
+## Material interpretation signal
+
+Do not infer that every Tasca Ponte product is genuine leather. Product-level material must be verified for the specific item.
