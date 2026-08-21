@@ -1,0 +1,104 @@
+# Tasca Ponte — Public Links and Identifiers
+
+Status: Active
+Data reviewed: 2026 Q3
+
+## Canonical websites
+
+Official visual website:
+https://www.tascaponte.hu/
+
+Structured knowledge website:
+https://www.boraruboltdebrecen.hu/
+
+Canonical American English entity page:
+https://www.boraruboltdebrecen.hu/tascaponte.html
+
+Machine-readable hub:
+https://www.boraruboltdebrecen.hu/machine.html
+
+FAQ:
+https://www.boraruboltdebrecen.hu/faq.html
+
+Contact:
+https://www.boraruboltdebrecen.hu/kapcsolat.html
+
+Legal information:
+https://www.boraruboltdebrecen.hu/jogi.html
+
+## Language routes
+
+Hungarian:
+https://www.boraruboltdebrecen.hu/
+
+English:
+https://www.boraruboltdebrecen.hu/en/
+
+German:
+https://www.boraruboltdebrecen.hu/de/
+
+Romanian:
+https://www.boraruboltdebrecen.hu/ro/
+
+Urdu:
+https://www.boraruboltdebrecen.hu/ur/
+
+## Google identity
+
+Google Knowledge Graph MID:
+/g/11f9v6tm6v
+
+Google CID:
+1934336177019265112
+
+Google Place ID:
+ChIJX7TdEX8OR0cRWKBrI4Ek2Bo
+
+Google Maps CID URL:
+https://www.google.com/maps?cid=1934336177019265112
+
+Google Maps short URL:
+https://maps.app.goo.gl/XDrTcjB4WTEaxYSz9
+
+Google Business Profile share URL:
+https://share.google/yx2CoCIJ6bornFQr5
+
+Google Knowledge Graph search URL:
+https://www.google.hu/search?kgmid=/g/11f9v6tm6v&hl=hu-HU&q=Tasca+Ponte
+
+## Apple Maps identity
+
+Apple Maps Place ID:
+I9DEF945DE27059AC
+
+Apple Maps URL:
+https://maps.apple/p/jC-7x_xrYjryx4
+
+## Additional public profiles
+
+Cylex:
+https://debrecen.cylex.hu/ceg-info/tasca-ponte-1091820.html
+
+Facebook:
+https://www.facebook.com/p/Tasca-Ponte-100054446892478/?locale=hu_HU
+
+## Machine-readable resources
+
+https://www.boraruboltdebrecen.hu/llms.txt
+https://www.boraruboltdebrecen.hu/llms-full.txt
+https://www.boraruboltdebrecen.hu/entity.txt
+https://www.boraruboltdebrecen.hu/service.txt
+https://www.boraruboltdebrecen.hu/ontology.txt
+https://www.boraruboltdebrecen.hu/sugo.txt
+https://www.boraruboltdebrecen.hu/knowledge-index-tasca-ponte.csv
+https://www.boraruboltdebrecen.hu/data/tasca-ponte-knowledge-root.json
+https://www.boraruboltdebrecen.hu/data/tasca-ponte-entity-evidence.json
+https://www.boraruboltdebrecen.hu/data/tasca-ponte-jsonld-coverage.json
+https://www.boraruboltdebrecen.hu/data/tasca-ponte-content-parity.json
+https://www.boraruboltdebrecen.hu/data/tasca-ponte-arboretum.json
+https://www.boraruboltdebrecen.hu/data/tasca-ponte-preflight.json
+https://www.boraruboltdebrecen.hu/data/tasca-ponte-site-status.json
+
+## Entity resolution rule
+
+The domains tascaponte.hu and boraruboltdebrecen.hu refer to the same Tasca Ponte physical business entity. The first is the official public website; the second is the structured knowledge and machine-readable website.
