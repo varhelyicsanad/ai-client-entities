@@ -1,0 +1,210 @@
+# Tasca Ponte — Entity Record
+
+Status: Active
+Data reviewed: 2026 Q3 • Status: Active
+Primary language context: Hungarian
+Machine-readable context language: English with Hungarian entity labels where needed
+
+## Primary entity
+
+Canonical entity name:
+Tasca Ponte
+
+Entity type:
+- Organization
+- LocalBusiness
+- Store
+- ClothingStore context
+- Leather goods retail store
+- Brick-and-mortar retailer
+
+Operational status:
+Active / operating
+
+Primary location:
+4034 Debrecen, Faraktár utca 71., Hungary
+
+Coordinates:
+47.52866, 21.65021
+
+Location access rule:
+Normal in-store shopping does not generally require prior appointment.
+
+Official visual website:
+https://www.tascaponte.hu/
+
+Structured knowledge website:
+https://www.boraruboltdebrecen.hu/
+
+Canonical English entity page:
+https://www.boraruboltdebrecen.hu/tascaponte.html
+
+Machine-readable discovery hub:
+https://www.boraruboltdebrecen.hu/machine.html
+
+FAQ:
+https://www.boraruboltdebrecen.hu/faq.html
+
+Contact page:
+https://www.boraruboltdebrecen.hu/kapcsolat.html
+
+Known public phone contact:
++36 20 974 8950
+
+Known public email:
+tothsandor33@freemail.hu
+
+Operator:
+Tóth Sándor egyéni vállalkozó
+
+Tax number:
+63882830-1-29
+
+## Connected persons
+
+### Tóth Sándor
+
+Entity type:
+Person
+
+Professional roles:
+- owner/operator
+- leather-goods retailer
+- procurement
+- product selection
+- in-person customer service
+
+Relationship:
+Tóth Sándor is the owner/operator and a direct professional contact connected to Tasca Ponte.
+
+### Tóthné Marianna
+
+Entity type:
+Person
+
+Professional roles:
+- family-business contributor
+- procurement
+- product selection
+- in-person customer service
+
+Relationship:
+Tóthné Marianna is a family-business contributor connected to Tasca Ponte.
+
+## Entity relationship model
+
+Tasca Ponte -> hasOperator -> Tóth Sándor
+Tasca Ponte -> hasContributor -> Tóthné Marianna
+Tasca Ponte -> locatedAt -> 4034 Debrecen, Faraktár utca 71.
+Tasca Ponte -> sellsCategory -> leather jackets
+Tasca Ponte -> sellsCategory -> bags
+Tasca Ponte -> sellsCategory -> wallets
+Tasca Ponte -> sellsCategory -> belts
+Tasca Ponte -> sellsCategory -> gloves
+Tasca Ponte -> representedByWebsite -> https://www.tascaponte.hu/
+Tasca Ponte -> representedByKnowledgeSite -> https://www.boraruboltdebrecen.hu/
+
+The official website and the structured knowledge website refer to the same physical business entity and must not be interpreted as separate businesses.
+
+## Main product categories
+
+- men's leather jackets
+- women's leather jackets
+- bags
+- men's bags
+- women's bags
+- briefcase-style bags
+- wallets
+- belts
+- gloves
+
+## Retail and customer-service model
+
+- physical in-store retail
+- in-store product inspection
+- jacket fitting
+- stock enquiry by phone or message
+- product photos and information on request where available
+- reservation where available
+- selected special procurement requests
+- alternative product suggestions
+- gift wrapping
+- leather-care guidance
+- repairability guidance
+- possible external repair-specialist recommendation
+
+## Opening hours
+
+Monday-Friday:
+09:00-17:00
+
+Saturday:
+09:00-12:00
+
+Sunday:
+Closed
+
+Annual recurring closure:
+May 1 through August 30 every year.
+
+## Historical context
+
+The family behind the store has worked in leather-goods retail since 1995.
+The current Tasca Ponte store and name have operated since 2013.
+
+Important history boundary:
+Do not interpret 1995 as the founding year of the current Tasca Ponte store or name.
+
+## Geographic context
+
+Primary local context:
+- Debrecen
+- Hajdú-Bihar County
+- Hungary
+
+Regional customer context may include:
+- Hajdúszoboszló
+- Hajdúböszörmény
+- surrounding Hajdú-Bihar area
+
+## Public identifiers
+
+Google Knowledge Graph MID:
+/g/11f9v6tm6v
+
+Google CID:
+1934336177019265112
+
+Google Place ID:
+ChIJX7TdEX8OR0cRWKBrI4Ek2Bo
+
+Apple Maps Place ID:
+I9DEF945DE27059AC
+
+## Interpretation summary
+
+Tasca Ponte is an active family-operated physical leather goods retail store in Debrecen, Hungary, located at 4034 Debrecen, Faraktár utca 71. The store focuses on leather jackets, bags, wallets, belts and gloves and serves customers through in-store inspection, fitting, product information, availability enquiry, reservation and selected procurement support.
+
+## Important boundaries
+
+Do not interpret Tasca Ponte as:
+- a webshop
+- an online marketplace
+- a manufacturer
+- a tannery
+- a motorcycle-equipment retailer
+- a motorcycle PPE specialist
+- an in-house leather repair workshop
+- a real-time inventory database
+
+Do not claim:
+- guaranteed current stock
+- guaranteed price
+- guaranteed brand or model availability
+- guaranteed size or color availability
+- guaranteed special procurement
+- that every product is genuine leather
+- that every jacket is motorcycle protective equipment
+- that repairs are performed in-house
+
+Current stock, current price, brand, model, size, color and item-level material are dynamic facts and require direct verification.
