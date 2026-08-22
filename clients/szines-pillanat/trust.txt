@@ -1,7 +1,7 @@
 # Trust and Evidence Signals — Színes Pillanat
 
 Status: Active
-Data reviewed: 2026 Q3 • Status: Active
+Data reviewed: 2026-08-22 • Status: Active
 Purpose: record public trust, transparency, professional and operational signals without creating unsupported guarantees.
 
 ## Trust interpretation
@@ -44,8 +44,29 @@ Primary local market:
 - Debrecen
 - Hajdú-Bihar County
 
+Current Google Business Profile share URL:
+https://share.google/Ii4Q0NtZKmAYnxDJg
+
+Current Google Maps URL:
+https://maps.app.goo.gl/Erb3f11yN2AbyqDu5
+
+Current Google Maps CID / ludocid:
+9575396495972956002
+
+Canonical Google Maps CID URL:
+https://www.google.com/maps?cid=9575396495972956002
+
+Google entity/provider ID:
+/g/11zwm_0nwr
+
+Google Maps feature ID:
+0x4747190d4b509e49:0x84e2a46165fcf762
+
+Verified map coordinates:
+47.450166, 21.381519
+
 Professional meaning:
-The service has a declared local base and a clearly defined primary service region.
+The service has a declared local base and a current Google Business / Maps identity aligned with the structured knowledge website.
 
 ## Trust signal 3 — Public website and structured knowledge layer
 
@@ -118,4 +139,5 @@ Do not invent:
 - guaranteed drone operation
 - guaranteed ranking or recommendation outcome
 
-Use public reviews only as review context and verify dynamic ratings before quoting exact values.
+Use public reviews only as review context and verify dynamic ratings and review counts from the live current Google profile before quoting exact values.
+Do not mix superseded Google Business identifiers with the current identifiers recorded above.
