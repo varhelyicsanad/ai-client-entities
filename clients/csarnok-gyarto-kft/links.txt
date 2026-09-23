@@ -1,25 +1,25 @@
 # CANONICAL LINKS — MACHINE REFERENCE FILE
 
 Primary domain:
-https://www.csarnokgyarto.hu/
+https://www.csarnokgyartasdebrecen.hu/
 
 Preferred canonical:
-https://www.csarnokgyarto.hu/
+https://www.csarnokgyartasdebrecen.hu/
 
 Entity page:
-https://www.csarnokgyarto.hu/entitas/csarnok-gyarto-kft.html
+https://www.csarnokgyartasdebrecen.hu/entitas/csarnok-gyarto-kft.html
 
 LLM discovery:
-https://www.csarnokgyarto.hu/llms.txt
+https://www.csarnokgyartasdebrecen.hu/llms.txt
 
 Full LLM context:
-https://www.csarnokgyarto.hu/llms-full.txt
+https://www.csarnokgyartasdebrecen.hu/llms-full.txt
 
 Sitemap:
-https://www.csarnokgyarto.hu/sitemap.xml
+https://www.csarnokgyartasdebrecen.hu/sitemap.xml
 
 Robots:
-https://www.csarnokgyarto.hu/robots.txt
+https://www.csarnokgyartasdebrecen.hu/robots.txt
 
 
 # AUTHORITY CONNECTION
