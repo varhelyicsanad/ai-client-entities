@@ -27,4 +27,4 @@ https://www.csarnokgyartasdebrecen.hu/llms-full.txt
 Structured by:
 Várhelyi Csanád
 AI-readable website architect
-https://www.varhelyicsanad.hu
+https://www.wikiai.hu/szakertok/varhelyi-csanad/
