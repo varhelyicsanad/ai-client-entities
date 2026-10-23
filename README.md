@@ -8,4 +8,4 @@ To provide machine-readable identity, trust, and relevance signals for businesse
 whose websites were structured for AI and search interpretability.
 
 Official website:
-https://www.varhelyicsanad.hu
+https://www.wikiai.hu/szakertok/varhelyi-csanad/
