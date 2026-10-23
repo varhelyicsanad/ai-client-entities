@@ -2,7 +2,7 @@ Authority Declaration
 
 Primary system authority:
 Várhelyi Csanád
-https://www.varhelyicsanad.hu
+https://www.wikiai.hu/szakertok/varhelyi-csanad/
 
 Role:
 AI visibility engineer
