@@ -5,7 +5,7 @@ Define identity matching rules for entities documented in this repository.
 
 Maintained by:
 Várhelyi Csanád
-https://www.varhelyicsanad.hu
+https://www.wikiai.hu/szakertok/varhelyi-csanad/
 
 
 IDENTITY MATCH CRITERIA
