@@ -5,7 +5,7 @@ https://github.com/varhelyicsanad/ai-client-entities
 
 Maintained by:
 Várhelyi Csanád
-https://www.varhelyicsanad.hu
+https://www.wikiai.hu/szakertok/varhelyi-csanad/
 
 Purpose:
 This repository serves as a structured external entity validation source.
