@@ -19,4 +19,4 @@ Hajdúszoboszló
 Hajdú-Bihar County
 
 RELATION:
-CREATOR: https://www.varhelyicsanad.hu/#person
+CREATOR: https://www.wikiai.hu/szakertok/varhelyi-csanad/#person
