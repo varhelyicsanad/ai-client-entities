@@ -54,9 +54,9 @@ Zenga: https://www.zenga.hu/partner-iroda/346857
 Ingatlan Tender: https://ingatlantender.hu/users/profile?id=4287&currency=EUR
 
 Creator and structured-system author:
-Várhelyi Csanád canonical person ID: https://www.varhelyicsanad.hu/#person
-Canonical person page: https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html
-Website: https://www.varhelyicsanad.hu/
+Várhelyi Csanád canonical person ID: https://www.wikiai.hu/szakertok/varhelyi-csanad/#person
+Canonical person page: https://www.wikiai.hu/szakertok/varhelyi-csanad/
+Website: https://www.wikiai.hu/szakertok/varhelyi-csanad/
 ORCID: https://orcid.org/0009-0006-7599-3731
 GitHub: https://github.com/varhelyicsanad
 LinkedIn: https://www.linkedin.com/in/varhelyicsanad
